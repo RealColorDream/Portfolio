@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Portfolio</title>
-    <link>//localhost:1313/en/works/</link>
+    <link>http://localhost:1313/Portfolio/en/works/</link>
     <description>Recent content on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Sep 2024 12:34:13 +0200</lastBuildDate><atom:link href="//localhost:1313/en/works/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Sep 2024 12:34:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/en/works/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Terminal minesweeper game implementation in Rust 🦀</title>
-      <link>//localhost:1313/en/works/minesweeper/</link>
+      <link>http://localhost:1313/Portfolio/en/works/minesweeper/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>//localhost:1313/en/works/minesweeper/</guid>
+      <guid>http://localhost:1313/Portfolio/en/works/minesweeper/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Conway&#39;s Game of life implementation in Rust 🦀</title>
-      <link>//localhost:1313/en/works/gameoflife/</link>
+      <link>http://localhost:1313/Portfolio/en/works/gameoflife/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>//localhost:1313/en/works/gameoflife/</guid>
+      <guid>http://localhost:1313/Portfolio/en/works/gameoflife/</guid>
       <description>&lt;h2 id=&#34;a-simple-implementation-of-the-conways-game-of-life-written-in-rust&#34;&gt;A simple implementation of the conway&amp;rsquo;s game of life written in rust.&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/game-of-life&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;overview-of-the-game&#34;&gt;Overview of the game&lt;/h2&gt;
@@ -46,7 +46,7 @@
 &lt;li&gt;SDL2 (refer to the &lt;a href=&#34;https://docs.rs/embedded-graphics-simulator/0.6.0/embedded_graphics_simulator/#setup&#34;&gt;guide of the embedded-graphics crate&lt;/a&gt; for installation)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;the-game-is-implemented-using-embedded-graphics-and-runs-on-a-64x64-monochrome-display&#34;&gt;The game is implemented using embedded-graphics and runs on a 64x64 monochrome display.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/conways-Game-Of-Life.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/conways-Game-Of-Life.png&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;keybinds&#34;&gt;Keybinds:&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Space&lt;/code&gt; to pause/unpause the game&lt;/li&gt;
@@ -62,10 +62,10 @@
     
     <item>
       <title>Simultaneous Opposite Cardinal Directions (SOCD) in rust 🦀 !</title>
-      <link>//localhost:1313/en/works/socd/</link>
+      <link>http://localhost:1313/Portfolio/en/works/socd/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>//localhost:1313/en/works/socd/</guid>
+      <guid>http://localhost:1313/Portfolio/en/works/socd/</guid>
       <description>&lt;h3 id=&#34;you-may-have-heard-of-new-keyboards-with-the-shortest-response-time-some-of-them-have-features-that-enable-them-to-only-response-with-the-last-input-sent&#34;&gt;You may have heard of new keyboards with the shortest response time. Some of them have features that enable them to only response with the last input sent&lt;/h3&gt;
 &lt;h3 id=&#34;this-program-is-written-to-replicate-this&#34;&gt;This program is written to replicate this&lt;/h3&gt;</description>
       <content>&lt;h3 id=&#34;you-may-have-heard-of-new-keyboards-with-the-shortest-response-time-some-of-them-have-features-that-enable-them-to-only-response-with-the-last-input-sent&#34;&gt;You may have heard of new keyboards with the shortest response time. Some of them have features that enable them to only response with the last input sent&lt;/h3&gt;

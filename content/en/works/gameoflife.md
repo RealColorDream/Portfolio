@@ -36,7 +36,7 @@ These rules create a dynamic system where simple initial configurations can lead
 
 ### The game is implemented using embedded-graphics and runs on a 64x64 monochrome display.
 
-![](/img/conways-Game-Of-Life.png)
+![](img/conways-Game-Of-Life.png)
 
 #### Keybinds:
 - `Space` to pause/unpause the game

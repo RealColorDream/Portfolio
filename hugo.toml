@@ -36,7 +36,7 @@ words = "words"
 
 [languages.en.params.logo]
 logoText = "RealColorDream - en"
-logoHomeLink = "/"
+logoHomeLink = "/Portfolio/"
 
 [languages.en.menu]
 [[languages.en.menu.main]]
@@ -67,7 +67,7 @@ words = "mots"
 
 [languages.fr.params.logo]
 logoText = "RealColorDream - fr"
-logoHomeLink = "/fr/"
+logoHomeLink = "/Portfolio/fr/"
 
 [languages.fr.menu]
 [[languages.fr.menu.main]]
