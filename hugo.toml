@@ -1,0 +1,91 @@
+baseURL = '/'
+languageCode = 'fr' # Default language
+title = 'Portfolio'
+
+theme = "terminal"
+paginate = 5
+
+[params]
+contentTypeName = "posts"
+showMenuItems = 3
+showLanguageSelector = true
+fullWidthTheme = false
+centerTheme = true
+autoCover = true
+# showLastUpdated = true
+readingTime = true
+# Toc = true
+# TocTitle = "Table of Contents"
+
+[languages]
+[languages.en]
+languageName = "English"
+title = "My Portfolio"
+
+[languages.en.params]
+subtitle = "A simple, retro theme for Hugo"
+menuMore = "Show more"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+missingContentMessage = "Page not found..."
+missingBackButtonLabel = "Back to home page"
+minuteReadingTime = "min read"
+words = "words"
+
+[languages.en.params.logo]
+logoText = "RealColorDream - en"
+logoHomeLink = "/en/"
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+identifier = "School projects"
+name = "School projects"
+url = "/en/school"
+
+[[languages.en.menu.main]]
+identifier = "personal-projects"
+name = "Personal Projects"
+url = "/en/works"
+
+[[languages.en.menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/en/posts"
+
+[languages.fr]
+languageName = "French"
+title = "Mon Portfolio"
+
+[languages.fr.params]
+subtitle = "A simple, retro theme for Hugo"
+menuMore = "Afficher plus"
+readMore = "Voir plus"
+readOtherPosts = "Lire un autre post"
+newerPosts = "Nouveaux posts"
+olderPosts = "Ancien posts"
+missingContentMessage = "Page non trouver ..."
+missingBackButtonLabel = "Page principale"
+minuteReadingTime = "min de lecture"
+words = "mots"
+
+[languages.fr.params.logo]
+logoText = "RealColorDream - fr"
+logoHomeLink = "/fr/"
+
+[languages.fr.menu]
+[[languages.fr.menu.main]]
+identifier = "School projects"
+name = "School projects"
+url = "/fr/school/"
+
+[[languages.fr.menu.main]]
+identifier = "personal-projects"
+name = "Personal Projects"
+url = "/fr/works/"
+
+[[languages.fr.menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/fr/posts/"
