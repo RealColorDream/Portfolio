@@ -1,5 +1,5 @@
-baseURL = '/'
-languageCode = 'fr' # Default language
+baseURL = 'https://realcolordream.github.io/Portfolio/'
+languageCode = 'fr'                                     # Default language
 title = 'Portfolio'
 
 theme = "terminal"
@@ -36,7 +36,7 @@ words = "words"
 
 [languages.en.params.logo]
 logoText = "RealColorDream - en"
-logoHomeLink = "/en/"
+logoHomeLink = "/"
 
 [languages.en.menu]
 [[languages.en.menu.main]]
@@ -48,11 +48,6 @@ url = "/en/school"
 identifier = "personal-projects"
 name = "Personal Projects"
 url = "/en/works"
-
-[[languages.en.menu.main]]
-identifier = "posts"
-name = "Posts"
-url = "/en/posts"
 
 [languages.fr]
 languageName = "French"
