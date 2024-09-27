@@ -2,17 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Portfolio</title>
-    <link>http://localhost:1313/Portfolio/tags/</link>
+    <link>http://localhost:45735/Portfolio/tags/</link>
     <description>Recent content in Tags on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Sep 2024 12:34:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Sep 2024 12:34:13 +0200</lastBuildDate><atom:link href="http://localhost:45735/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rust</title>
-      <link>http://localhost:1313/Portfolio/tags/rust/</link>
+      <title>Network</title>
+      <link>http://localhost:45735/Portfolio/tags/network/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>http://localhost:1313/Portfolio/tags/rust/</guid>
+      <guid>http://localhost:45735/Portfolio/tags/network/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:45735/Portfolio/tags/python/</link>
+      <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
+      
+      <guid>http://localhost:45735/Portfolio/tags/python/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>http://localhost:45735/Portfolio/tags/rust/</link>
+      <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
+      
+      <guid>http://localhost:45735/Portfolio/tags/rust/</guid>
       <description></description>
       <content></content>
     </item>

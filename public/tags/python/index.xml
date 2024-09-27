@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Portfolio</title>
-    <link>http://localhost:45735/Portfolio/works/</link>
-    <description>Recent content on My Portfolio</description>
+    <title>Python on My Portfolio</title>
+    <link>http://localhost:45735/Portfolio/tags/python/</link>
+    <description>Recent content in Python on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Sep 2024 12:34:13 +0200</lastBuildDate><atom:link href="http://localhost:45735/Portfolio/works/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Terminal minesweeper game implementation in Rust 🦀</title>
-      <link>http://localhost:45735/Portfolio/works/minesweeper/</link>
-      <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
-      
-      <guid>http://localhost:45735/Portfolio/works/minesweeper/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
+    <lastBuildDate>Sun, 22 Sep 2024 12:34:13 +0200</lastBuildDate><atom:link href="http://localhost:45735/Portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CIDR calculator script in python (subnet calculator) 🐍</title>
       <link>http://localhost:45735/Portfolio/works/cidr_script/</link>
@@ -53,62 +43,6 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        print(method)
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# [&amp;#39;broadcast_IP&amp;#39;, &amp;#39;first_IP&amp;#39;, &amp;#39;first_IP_device&amp;#39;, &amp;#39;get_mask_Number&amp;#39;, &amp;#39;get_network_IP&amp;#39;, &amp;#39;last_IP&amp;#39;, &amp;#39;last_IP_device&amp;#39;, &amp;#39;number_of_IP&amp;#39;, &amp;#39;number_of_IP_device&amp;#39;, &amp;#39;parse_IP_to_int&amp;#39;, &amp;#39;parse_int_to_IP&amp;#39;, &amp;#39;parse_ip_to_list&amp;#39;]&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
-    </item>
-    
-    <item>
-      <title>Conway&#39;s Game of life implementation in Rust 🦀</title>
-      <link>http://localhost:45735/Portfolio/works/gameoflife/</link>
-      <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
-      
-      <guid>http://localhost:45735/Portfolio/works/gameoflife/</guid>
-      <description>&lt;h2 id=&#34;a-simple-implementation-of-the-conways-game-of-life-written-in-rust&#34;&gt;A simple implementation of the conway&amp;rsquo;s game of life written in rust.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/game-of-life&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;overview-of-the-game&#34;&gt;Overview of the game&lt;/h2&gt;
-&lt;p&gt;Conway&amp;rsquo;s Game of Life is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. The game consists of a grid of cells that can be either alive or dead, and it evolves through a series of generations based on a set of simple rules.&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;a-simple-implementation-of-the-conways-game-of-life-written-in-rust&#34;&gt;A simple implementation of the conway&amp;rsquo;s game of life written in rust.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/game-of-life&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;overview-of-the-game&#34;&gt;Overview of the game&lt;/h2&gt;
-&lt;p&gt;Conway&amp;rsquo;s Game of Life is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. The game consists of a grid of cells that can be either alive or dead, and it evolves through a series of generations based on a set of simple rules.&lt;/p&gt;
-&lt;h2 id=&#34;rules&#34;&gt;Rules&lt;/h2&gt;
-&lt;p&gt;The state of each cell in the grid is updated simultaneously based on the following rules:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Survival&lt;/strong&gt;: A live cell with two or three live neighbors remains alive in the next generation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Death&lt;/strong&gt;: A live cell with fewer than two live neighbors dies (underpopulation), and a live cell with more than three live neighbors dies (overpopulation).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Birth&lt;/strong&gt;: A dead cell with exactly three live neighbors becomes alive (reproduction).&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;These rules create a dynamic system where simple initial configurations can lead to complex behaviors over time.&lt;/p&gt;
-&lt;h3 id=&#34;to-build-and-run-this-project-you-need-to-have-the-following-installed&#34;&gt;To Build and Run this project you need to have the following installed:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Rust&lt;/li&gt;
-&lt;li&gt;Cargo&lt;/li&gt;
-&lt;li&gt;SDL2 (refer to the &lt;a href=&#34;https://docs.rs/embedded-graphics-simulator/0.6.0/embedded_graphics_simulator/#setup&#34;&gt;guide of the embedded-graphics crate&lt;/a&gt; for installation)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;the-game-is-implemented-using-embedded-graphics-and-runs-on-a-64x64-monochrome-display&#34;&gt;The game is implemented using embedded-graphics and runs on a 64x64 monochrome display.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;img/conways-Game-Of-Life.png&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;keybinds&#34;&gt;Keybinds:&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Space&lt;/code&gt; to pause/unpause the game&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;TAB&lt;/code&gt; to reset the game&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Arrow keys&lt;/code&gt; to move the cursor&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Enter&lt;/code&gt; to toggle the state of the cell under the cursor when the game is paused&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Escape&lt;/code&gt; to exit the game&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;LMB&lt;/code&gt; to spawn a spaceship at the position of the cursor&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Have fun!&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Simultaneous Opposite Cardinal Directions (SOCD) in rust 🦀 !</title>
-      <link>http://localhost:45735/Portfolio/works/socd/</link>
-      <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
-      
-      <guid>http://localhost:45735/Portfolio/works/socd/</guid>
-      <description>&lt;h3 id=&#34;you-may-have-heard-of-new-keyboards-with-the-shortest-response-time-some-of-them-have-features-that-enable-them-to-only-response-with-the-last-input-sent&#34;&gt;You may have heard of new keyboards with the shortest response time. Some of them have features that enable them to only response with the last input sent&lt;/h3&gt;
-&lt;h3 id=&#34;this-program-is-written-to-replicate-this&#34;&gt;This program is written to replicate this&lt;/h3&gt;</description>
-      <content>&lt;h3 id=&#34;you-may-have-heard-of-new-keyboards-with-the-shortest-response-time-some-of-them-have-features-that-enable-them-to-only-response-with-the-last-input-sent&#34;&gt;You may have heard of new keyboards with the shortest response time. Some of them have features that enable them to only response with the last input sent&lt;/h3&gt;
-&lt;h3 id=&#34;this-program-is-written-to-replicate-this&#34;&gt;This program is written to replicate this&lt;/h3&gt;
-</content>
     </item>
     
   </channel>

@@ -2,27 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Portfolio</title>
-    <link>http://localhost:1313/Portfolio/</link>
+    <link>http://localhost:45735/Portfolio/</link>
     <description>Recent content on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Sep 2024 12:34:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Sep 2024 12:34:13 +0200</lastBuildDate><atom:link href="http://localhost:45735/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Terminal minesweeper game implementation in Rust 🦀</title>
-      <link>http://localhost:1313/Portfolio/works/minesweeper/</link>
+      <link>http://localhost:45735/Portfolio/works/minesweeper/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>http://localhost:1313/Portfolio/works/minesweeper/</guid>
+      <guid>http://localhost:45735/Portfolio/works/minesweeper/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
-      <title>Conway&#39;s Game of life implementation in Rust 🦀</title>
-      <link>http://localhost:1313/Portfolio/works/gameoflife/</link>
+      <title>CIDR calculator script in python (subnet calculator) 🐍</title>
+      <link>http://localhost:45735/Portfolio/works/cidr_script/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>http://localhost:1313/Portfolio/works/gameoflife/</guid>
+      <guid>http://localhost:45735/Portfolio/works/cidr_script/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/CIDR_script&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;cidr-calculator-is-a-simple-python-script-to-calculate-the-cidr-notation-of-an-ip-address&#34;&gt;CIDR calculator is a simple python script to calculate the CIDR notation of an IP address.&lt;/h1&gt;
+&lt;h2 id=&#34;its-meant-to-be-as-easy-as-possible-to-use&#34;&gt;Its meant to be as easy as possible to use&lt;/h2&gt;
+&lt;h2 id=&#34;usage&#34;&gt;Usage:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; CIDR &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; _
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CIDR &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; _&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;CIDR(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;192.168.0.0&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;24&lt;/span&gt;) &lt;span style=&#34;color:#75715e&#34;&gt;# IP, subnet_numbers&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(CIDR) &lt;span style=&#34;color:#75715e&#34;&gt;# by default, it will print all the information of this ip&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(CIDR&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;first_IP_device())
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;methods&#34;&gt;Methods:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; method &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; dir(_&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;CIDR):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;not&lt;/span&gt; method&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;startswith(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;__&amp;#34;&lt;/span&gt;):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        print(method)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# [&amp;#39;broadcast_IP&amp;#39;, &amp;#39;first_IP&amp;#39;, &amp;#39;first_IP_device&amp;#39;, &amp;#39;get_mask_Number&amp;#39;, &amp;#39;get_network_IP&amp;#39;, &amp;#39;last_IP&amp;#39;, &amp;#39;last_IP_device&amp;#39;, &amp;#39;number_of_IP&amp;#39;, &amp;#39;number_of_IP_device&amp;#39;, &amp;#39;parse_IP_to_int&amp;#39;, &amp;#39;parse_int_to_IP&amp;#39;, &amp;#39;parse_ip_to_list&amp;#39;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/CIDR_script&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;cidr-calculator-is-a-simple-python-script-to-calculate-the-cidr-notation-of-an-ip-address&#34;&gt;CIDR calculator is a simple python script to calculate the CIDR notation of an IP address.&lt;/h1&gt;
+&lt;h2 id=&#34;its-meant-to-be-as-easy-as-possible-to-use&#34;&gt;Its meant to be as easy as possible to use&lt;/h2&gt;
+&lt;h2 id=&#34;usage&#34;&gt;Usage:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; CIDR &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; _
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CIDR &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; _&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;CIDR(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;192.168.0.0&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;24&lt;/span&gt;) &lt;span style=&#34;color:#75715e&#34;&gt;# IP, subnet_numbers&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(CIDR) &lt;span style=&#34;color:#75715e&#34;&gt;# by default, it will print all the information of this ip&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(CIDR&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;first_IP_device())
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;methods&#34;&gt;Methods:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; method &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; dir(_&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;CIDR):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;not&lt;/span&gt; method&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;startswith(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;__&amp;#34;&lt;/span&gt;):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        print(method)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# [&amp;#39;broadcast_IP&amp;#39;, &amp;#39;first_IP&amp;#39;, &amp;#39;first_IP_device&amp;#39;, &amp;#39;get_mask_Number&amp;#39;, &amp;#39;get_network_IP&amp;#39;, &amp;#39;last_IP&amp;#39;, &amp;#39;last_IP_device&amp;#39;, &amp;#39;number_of_IP&amp;#39;, &amp;#39;number_of_IP_device&amp;#39;, &amp;#39;parse_IP_to_int&amp;#39;, &amp;#39;parse_int_to_IP&amp;#39;, &amp;#39;parse_ip_to_list&amp;#39;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
+    </item>
+    
+    <item>
+      <title>Conway&#39;s Game of life implementation in Rust 🦀</title>
+      <link>http://localhost:45735/Portfolio/works/gameoflife/</link>
+      <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
+      
+      <guid>http://localhost:45735/Portfolio/works/gameoflife/</guid>
       <description>&lt;h2 id=&#34;a-simple-implementation-of-the-conways-game-of-life-written-in-rust&#34;&gt;A simple implementation of the conway&amp;rsquo;s game of life written in rust.&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/game-of-life&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;overview-of-the-game&#34;&gt;Overview of the game&lt;/h2&gt;
@@ -62,10 +100,10 @@
     
     <item>
       <title>Simultaneous Opposite Cardinal Directions (SOCD) in rust 🦀 !</title>
-      <link>http://localhost:1313/Portfolio/works/socd/</link>
+      <link>http://localhost:45735/Portfolio/works/socd/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>http://localhost:1313/Portfolio/works/socd/</guid>
+      <guid>http://localhost:45735/Portfolio/works/socd/</guid>
       <description>&lt;h3 id=&#34;you-may-have-heard-of-new-keyboards-with-the-shortest-response-time-some-of-them-have-features-that-enable-them-to-only-response-with-the-last-input-sent&#34;&gt;You may have heard of new keyboards with the shortest response time. Some of them have features that enable them to only response with the last input sent&lt;/h3&gt;
 &lt;h3 id=&#34;this-program-is-written-to-replicate-this&#34;&gt;This program is written to replicate this&lt;/h3&gt;</description>
       <content>&lt;h3 id=&#34;you-may-have-heard-of-new-keyboards-with-the-shortest-response-time-some-of-them-have-features-that-enable-them-to-only-response-with-the-last-input-sent&#34;&gt;You may have heard of new keyboards with the shortest response time. Some of them have features that enable them to only response with the last input sent&lt;/h3&gt;
