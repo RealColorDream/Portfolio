@@ -2,16 +2,16 @@
 <html lang="en">
 <head><script src="/Portfolio/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=Portfolio/livereload" data-no-instant defer></script>
   
-    <title>Tags :: My Portfolio</title>
+    <title>Conway&#39;s Game of life implementation in Rust 🦀 :: My Portfolio</title>
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="" />
+<meta name="description" content="A simple implementation of the conway&#39;s game of life written in rust." />
 <meta name="keywords" content="" />
 
   <meta name="robots" content="noodp" />
 
-<link rel="canonical" href="http://localhost:1313/Portfolio/tags/" />
+<link rel="canonical" href="http://localhost:1313/Portfolio/works/gameoflife/" />
 
 
 
@@ -74,10 +74,10 @@
 
 
 <meta property="og:locale" content="en" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Tags">
-<meta property="og:description" content="" />
-<meta property="og:url" content="http://localhost:1313/Portfolio/tags/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Conway&#39;s Game of life implementation in Rust 🦀">
+<meta property="og:description" content="A simple implementation of the conway&#39;s game of life written in rust." />
+<meta property="og:url" content="http://localhost:1313/Portfolio/works/gameoflife/" />
 <meta property="og:site_name" content="My Portfolio" />
 
   <meta property="og:image" content="http://localhost:1313/Portfolio/og-image.png">
@@ -86,10 +86,10 @@
 <meta property="og:image:height" content="627">
 
 
+  <meta property="article:published_time" content="2024-09-22 12:34:13 &#43;0200 CEST" />
 
 
 
-  <link href="/Portfolio/tags/index.xml" rel="alternate" type="application/rss+xml" title="My Portfolio" />
 
 
 
@@ -186,22 +186,65 @@
 
   <div class="content">
     
-  <div class="terms">
-    <h1>Tags</h1>
+<article class="post">
+  <h1 class="post-title">
+    <a href="http://localhost:1313/Portfolio/works/gameoflife/">Conway&rsquo;s Game of life implementation in Rust 🦀</a>
+  </h1>
+  <div class="post-meta"><time class="post-date">2024-09-22</time><span class="post-reading-time">2 min read (264 words)</span></div>
+
+  
+    <span class="post-tags">
+      
+      #<a href="http://localhost:1313/Portfolio/tags/rust/">rust</a>&nbsp;
+      
+    </span>
+  
+  
+
+
+  
+
+  <div class="post-content"><div>
+        <h2 id="a-simple-implementation-of-the-conways-game-of-life-written-in-rust">A simple implementation of the conway&rsquo;s game of life written in rust.<a href="#a-simple-implementation-of-the-conways-game-of-life-written-in-rust" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p><a href="https://github.com/RealColorDream/game-of-life"><code>🐙 Github source here 🐙</code></a></p>
+<h2 id="overview-of-the-game">Overview of the game<a href="#overview-of-the-game" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p>Conway&rsquo;s Game of Life is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. The game consists of a grid of cells that can be either alive or dead, and it evolves through a series of generations based on a set of simple rules.</p>
+<h2 id="rules">Rules<a href="#rules" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p>The state of each cell in the grid is updated simultaneously based on the following rules:</p>
+<ol>
+<li><strong>Survival</strong>: A live cell with two or three live neighbors remains alive in the next generation.</li>
+<li><strong>Death</strong>: A live cell with fewer than two live neighbors dies (underpopulation), and a live cell with more than three live neighbors dies (overpopulation).</li>
+<li><strong>Birth</strong>: A dead cell with exactly three live neighbors becomes alive (reproduction).</li>
+</ol>
+<p>These rules create a dynamic system where simple initial configurations can lead to complex behaviors over time.</p>
+<h3 id="to-build-and-run-this-project-you-need-to-have-the-following-installed">To Build and Run this project you need to have the following installed:<a href="#to-build-and-run-this-project-you-need-to-have-the-following-installed" class="hanchor" ariaLabel="Anchor">#</a> </h3>
+<ul>
+<li>Rust</li>
+<li>Cargo</li>
+<li>SDL2 (refer to the <a href="https://docs.rs/embedded-graphics-simulator/0.6.0/embedded_graphics_simulator/#setup">guide of the embedded-graphics crate</a> for installation)</li>
+</ul>
+<h3 id="the-game-is-implemented-using-embedded-graphics-and-runs-on-a-64x64-monochrome-display">The game is implemented using embedded-graphics and runs on a 64x64 monochrome display.<a href="#the-game-is-implemented-using-embedded-graphics-and-runs-on-a-64x64-monochrome-display" class="hanchor" ariaLabel="Anchor">#</a> </h3>
+<p><img src="img/conways-Game-Of-Life.png"></p>
+<h4 id="keybinds">Keybinds:<a href="#keybinds" class="hanchor" ariaLabel="Anchor">#</a> </h4>
+<ul>
+<li><code>Space</code> to pause/unpause the game</li>
+<li><code>TAB</code> to reset the game</li>
+<li><code>Arrow keys</code> to move the cursor</li>
+<li><code>Enter</code> to toggle the state of the cell under the cursor when the game is paused</li>
+<li><code>Escape</code> to exit the game</li>
+<li><code>LMB</code> to spawn a spaceship at the position of the cursor</li>
+</ul>
+<p>Have fun!</p>
+
+      </div></div>
+
+  
+
+  
     
-    <ul>
-      
-      
-        
-        
-        
-          <li>
-            <a class="terms-title" href="http://localhost:1313/Portfolio/tags/rust/">rust [3]</a>
-          </li>
-        
-      
-    </ul>
-  </div>
+
+  
+</article>
 
   </div>
 

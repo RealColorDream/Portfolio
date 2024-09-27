@@ -15,42 +15,29 @@
                 href="http://localhost:1313/Portfolio/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Portfolio/en/works/</loc>
+    <loc>http://localhost:1313/Portfolio/works/</loc>
     <lastmod>2024-09-22T12:34:13+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/Portfolio/fr/en/works/"
+                href="http://localhost:1313/Portfolio/fr/works/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Portfolio/en/works/"
+                href="http://localhost:1313/Portfolio/works/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Portfolio/en/works/minesweeper/</loc>
+    <loc>http://localhost:1313/Portfolio/works/minesweeper/</loc>
     <lastmod>2024-09-22T12:34:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/en/works/gameoflife/</loc>
+    <loc>http://localhost:1313/Portfolio/works/gameoflife/</loc>
     <lastmod>2024-09-22T12:34:13+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/en/</loc>
-    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/Portfolio/fr/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/Portfolio/en/"
-                />
   </url><url>
     <loc>http://localhost:1313/Portfolio/tags/rust/</loc>
     <lastmod>2024-09-22T12:34:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/en/works/socd/</loc>
+    <loc>http://localhost:1313/Portfolio/works/socd/</loc>
     <lastmod>2024-09-22T12:34:13+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Portfolio/tags/</loc>

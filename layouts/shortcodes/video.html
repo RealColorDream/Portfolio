@@ -1,3 +1,5 @@
-<video width="{{ .Get "width" }}" height="{{ .Get "height" }}" autoplay loop muted>
-    <source src="{{ .Get "src" }}" type="video/mp4">
-</video>
+<div class="video-container" style="position: relative; width: 100%; height: auto; max-width: 550px; margin: 0 auto; overflow: hidden;">
+    <video autoplay loop muted style="width: 100%; height: auto; object-fit: cover;">
+        <source src="{{ .Get "src" | relURL }}" type="video/mp4">
+    </video>
+</div>

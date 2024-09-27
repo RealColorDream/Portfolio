@@ -14,16 +14,16 @@
                 href="http://localhost:1313/Portfolio/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Portfolio/fr/en/works/</loc>
+    <loc>http://localhost:1313/Portfolio/fr/works/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Portfolio/en/works/"
+                href="http://localhost:1313/Portfolio/works/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/Portfolio/fr/en/works/"
+                href="http://localhost:1313/Portfolio/fr/works/"
                 />
   </url><url>
     <loc>http://localhost:1313/Portfolio/fr/categories/</loc>
@@ -36,18 +36,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/Portfolio/fr/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/fr/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/Portfolio/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/Portfolio/fr/en/"
                 />
   </url><url>
     <loc>http://localhost:1313/Portfolio/fr/tags/</loc>

@@ -42,12 +42,12 @@ logoHomeLink = "/Portfolio/"
 [[languages.en.menu.main]]
 identifier = "School projects"
 name = "School projects"
-url = "/en/school"
+url = "/school"
 
 [[languages.en.menu.main]]
 identifier = "personal-projects"
 name = "Personal Projects"
-url = "/en/works"
+url = "/works"
 
 [languages.fr]
 languageName = "French"
@@ -73,14 +73,15 @@ logoHomeLink = "/Portfolio/fr/"
 [[languages.fr.menu.main]]
 identifier = "School projects"
 name = "School projects"
-url = "/fr/school/"
+url = "school/"
 
 [[languages.fr.menu.main]]
 identifier = "personal-projects"
 name = "Personal Projects"
-url = "/fr/works/"
+#url = "/fr/works/"
+url = "works/"
 
-[[languages.fr.menu.main]]
-identifier = "posts"
-name = "Posts"
-url = "/fr/posts/"
+#[[languages.fr.menu.main]]
+#identifier = "posts"
+#name = "Posts"
+#url = "/fr/posts/"

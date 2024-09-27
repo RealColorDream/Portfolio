@@ -5,7 +5,7 @@
 ### Feel free to contact me with my [`github profiles`](https://github.com/RealColorDream).
 
 
-{{< video src="video/aperture-science.mp4" width="768" height="432">}}
+{{< video src="video/aperture-science.mp4" >}}
 
 
 ```java
