@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game on My Portfolio</title>
+    <link>http://localhost:1313/Portfolio/tags/game/</link>
+    <description>Recent content in Game on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Sep 2024 21:20:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[NEW] Go_Gamedle in GoLang 🐹!</title>
+      <link>http://localhost:1313/Portfolio/works/gogamedle/</link>
+      <pubDate>Mon, 30 Sep 2024 21:20:13 +0200</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/works/gogamedle/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/GoGamedle&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;go_gamedle-in-golang-&#34;&gt;Go_Gamedle in GoLang 🐹!&lt;/h1&gt;
+&lt;h2 id=&#34;overview-of-the-game&#34;&gt;Overview of the game&lt;/h2&gt;
+&lt;p&gt;Go_Gamedle is a simple game that aim to guess a game from a cover image or a description.
+The game is written in GoLang and use the &lt;a href=&#34;https://gin-gonic.com/&#34;&gt;&lt;code&gt;gin-gonic&lt;/code&gt;&lt;/a&gt; to display an html page with the game.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;🚧 currently Working In Progress 🚧&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-does-this-project-use-&#34;&gt;What does this project use ?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GoLang&lt;/li&gt;
+&lt;li&gt;Gin (Web framework in GoLang)&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS (Bulma CSS for convenience)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And mostly the API of &lt;a href=&#34;https://www.igdb.com/&#34;&gt;IGDB&lt;/a&gt; which is a video game database.&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/GoGamedle&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;go_gamedle-in-golang-&#34;&gt;Go_Gamedle in GoLang 🐹!&lt;/h1&gt;
+&lt;h2 id=&#34;overview-of-the-game&#34;&gt;Overview of the game&lt;/h2&gt;
+&lt;p&gt;Go_Gamedle is a simple game that aim to guess a game from a cover image or a description.
+The game is written in GoLang and use the &lt;a href=&#34;https://gin-gonic.com/&#34;&gt;&lt;code&gt;gin-gonic&lt;/code&gt;&lt;/a&gt; to display an html page with the game.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;🚧 currently Working In Progress 🚧&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-does-this-project-use-&#34;&gt;What does this project use ?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GoLang&lt;/li&gt;
+&lt;li&gt;Gin (Web framework in GoLang)&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS (Bulma CSS for convenience)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And mostly the API of &lt;a href=&#34;https://www.igdb.com/&#34;&gt;IGDB&lt;/a&gt; which is a video game database.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

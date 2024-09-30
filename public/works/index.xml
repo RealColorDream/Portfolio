@@ -2,27 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Portfolio</title>
-    <link>http://localhost:45735/Portfolio/works/</link>
+    <link>http://localhost:1313/Portfolio/works/</link>
     <description>Recent content on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Sep 2024 12:34:13 +0200</lastBuildDate><atom:link href="http://localhost:45735/Portfolio/works/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 21:20:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[NEW] Go_Gamedle in GoLang 🐹!</title>
+      <link>http://localhost:1313/Portfolio/works/gogamedle/</link>
+      <pubDate>Mon, 30 Sep 2024 21:20:13 +0200</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/works/gogamedle/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/GoGamedle&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;go_gamedle-in-golang-&#34;&gt;Go_Gamedle in GoLang 🐹!&lt;/h1&gt;
+&lt;h2 id=&#34;overview-of-the-game&#34;&gt;Overview of the game&lt;/h2&gt;
+&lt;p&gt;Go_Gamedle is a simple game that aim to guess a game from a cover image or a description.
+The game is written in GoLang and use the &lt;a href=&#34;https://gin-gonic.com/&#34;&gt;&lt;code&gt;gin-gonic&lt;/code&gt;&lt;/a&gt; to display an html page with the game.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;🚧 currently Working In Progress 🚧&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-does-this-project-use-&#34;&gt;What does this project use ?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GoLang&lt;/li&gt;
+&lt;li&gt;Gin (Web framework in GoLang)&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS (Bulma CSS for convenience)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And mostly the API of &lt;a href=&#34;https://www.igdb.com/&#34;&gt;IGDB&lt;/a&gt; which is a video game database.&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/GoGamedle&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;go_gamedle-in-golang-&#34;&gt;Go_Gamedle in GoLang 🐹!&lt;/h1&gt;
+&lt;h2 id=&#34;overview-of-the-game&#34;&gt;Overview of the game&lt;/h2&gt;
+&lt;p&gt;Go_Gamedle is a simple game that aim to guess a game from a cover image or a description.
+The game is written in GoLang and use the &lt;a href=&#34;https://gin-gonic.com/&#34;&gt;&lt;code&gt;gin-gonic&lt;/code&gt;&lt;/a&gt; to display an html page with the game.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;🚧 currently Working In Progress 🚧&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-does-this-project-use-&#34;&gt;What does this project use ?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GoLang&lt;/li&gt;
+&lt;li&gt;Gin (Web framework in GoLang)&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS (Bulma CSS for convenience)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And mostly the API of &lt;a href=&#34;https://www.igdb.com/&#34;&gt;IGDB&lt;/a&gt; which is a video game database.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>A Terminal minesweeper game implementation in Rust 🦀</title>
-      <link>http://localhost:45735/Portfolio/works/minesweeper/</link>
+      <link>http://localhost:1313/Portfolio/works/minesweeper/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>http://localhost:45735/Portfolio/works/minesweeper/</guid>
+      <guid>http://localhost:1313/Portfolio/works/minesweeper/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>CIDR calculator script in python (subnet calculator) 🐍</title>
-      <link>http://localhost:45735/Portfolio/works/cidr_script/</link>
+      <link>http://localhost:1313/Portfolio/works/cidr_script/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>http://localhost:45735/Portfolio/works/cidr_script/</guid>
+      <guid>http://localhost:1313/Portfolio/works/cidr_script/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/CIDR_script&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;cidr-calculator-is-a-simple-python-script-to-calculate-the-cidr-notation-of-an-ip-address&#34;&gt;CIDR calculator is a simple python script to calculate the CIDR notation of an IP address.&lt;/h1&gt;
 &lt;h2 id=&#34;its-meant-to-be-as-easy-as-possible-to-use&#34;&gt;Its meant to be as easy as possible to use&lt;/h2&gt;
@@ -57,10 +94,10 @@
     
     <item>
       <title>Conway&#39;s Game of life implementation in Rust 🦀</title>
-      <link>http://localhost:45735/Portfolio/works/gameoflife/</link>
+      <link>http://localhost:1313/Portfolio/works/gameoflife/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>http://localhost:45735/Portfolio/works/gameoflife/</guid>
+      <guid>http://localhost:1313/Portfolio/works/gameoflife/</guid>
       <description>&lt;h2 id=&#34;a-simple-implementation-of-the-conways-game-of-life-written-in-rust&#34;&gt;A simple implementation of the conway&amp;rsquo;s game of life written in rust.&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/game-of-life&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;overview-of-the-game&#34;&gt;Overview of the game&lt;/h2&gt;
@@ -84,7 +121,7 @@
 &lt;li&gt;SDL2 (refer to the &lt;a href=&#34;https://docs.rs/embedded-graphics-simulator/0.6.0/embedded_graphics_simulator/#setup&#34;&gt;guide of the embedded-graphics crate&lt;/a&gt; for installation)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;the-game-is-implemented-using-embedded-graphics-and-runs-on-a-64x64-monochrome-display&#34;&gt;The game is implemented using embedded-graphics and runs on a 64x64 monochrome display.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;img/conways-Game-Of-Life.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Description of Image&#34; src=&#34;http://localhost:1313/Portfolio/Portfolio/img/game-of-life.png&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;keybinds&#34;&gt;Keybinds:&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Space&lt;/code&gt; to pause/unpause the game&lt;/li&gt;
@@ -100,14 +137,40 @@
     
     <item>
       <title>Simultaneous Opposite Cardinal Directions (SOCD) in rust 🦀 !</title>
-      <link>http://localhost:45735/Portfolio/works/socd/</link>
+      <link>http://localhost:1313/Portfolio/works/socd/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>http://localhost:45735/Portfolio/works/socd/</guid>
-      <description>&lt;h3 id=&#34;you-may-have-heard-of-new-keyboards-with-the-shortest-response-time-some-of-them-have-features-that-enable-them-to-only-response-with-the-last-input-sent&#34;&gt;You may have heard of new keyboards with the shortest response time. Some of them have features that enable them to only response with the last input sent&lt;/h3&gt;
-&lt;h3 id=&#34;this-program-is-written-to-replicate-this&#34;&gt;This program is written to replicate this&lt;/h3&gt;</description>
-      <content>&lt;h3 id=&#34;you-may-have-heard-of-new-keyboards-with-the-shortest-response-time-some-of-them-have-features-that-enable-them-to-only-response-with-the-last-input-sent&#34;&gt;You may have heard of new keyboards with the shortest response time. Some of them have features that enable them to only response with the last input sent&lt;/h3&gt;
-&lt;h3 id=&#34;this-program-is-written-to-replicate-this&#34;&gt;This program is written to replicate this&lt;/h3&gt;
+      <guid>http://localhost:1313/Portfolio/works/socd/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/socd&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;you-may-have-heard-of-new-keyboards-with-short-response-time-some-of-them-have-features-that-enable-them-to-only-response-with-the-last-input-sent-by-the-user&#34;&gt;You may have heard of new keyboards with short response time. Some of them have features that enable them to only response with the last input sent by the user.&lt;/h3&gt;
+&lt;h3 id=&#34;here-is-a-quick-video-that-explain-how-socd-works-&#34;&gt;Here is a quick video that explain how SOCD works :&lt;/h3&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NPWfg0BjY2g?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h3 id=&#34;so-this-quick-script-is-meant-to-replicate-the-last-input-first-feature-in-certain-keyboards&#34;&gt;So this quick script is meant to replicate the &amp;rsquo;last input first&amp;rsquo; feature in certain keyboards.&lt;/h3&gt;
+&lt;h3 id=&#34;the-script-is-written-in-rust-and-uses-the-device_query-cratehttpscratesiocratesdevice_query-crate-to-handle-the-users-input&#34;&gt;The script is written in Rust and uses the &lt;a href=&#34;https://crates.io/crates/device_query&#34;&gt;&lt;code&gt;device_query crate&lt;/code&gt;&lt;/a&gt; crate to handle the users input.&lt;/h3&gt;
+&lt;h3 id=&#34;this-script-is-simple-it-reads-the-input-from-the-user-and-if-the-user-press-two-opposite-directions-at-the-same-time-it-will-only-keep-the-last-input-sent&#34;&gt;This script is simple, it reads the input from the user and if the user press two opposite directions at the same time, it will only keep the last input sent.&lt;/h3&gt;
+&lt;h3 id=&#34;i-am-currently-considering-to-build-a-gui-graphic-user-interface-to-keep-the-management-of-the-user-keymaps-easy-&#34;&gt;I am currently considering to build a gui (graphic user interface) to keep the management of the user keymaps easy ✨&lt;/h3&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/socd&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;you-may-have-heard-of-new-keyboards-with-short-response-time-some-of-them-have-features-that-enable-them-to-only-response-with-the-last-input-sent-by-the-user&#34;&gt;You may have heard of new keyboards with short response time. Some of them have features that enable them to only response with the last input sent by the user.&lt;/h3&gt;
+&lt;h3 id=&#34;here-is-a-quick-video-that-explain-how-socd-works-&#34;&gt;Here is a quick video that explain how SOCD works :&lt;/h3&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NPWfg0BjY2g?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h3 id=&#34;so-this-quick-script-is-meant-to-replicate-the-last-input-first-feature-in-certain-keyboards&#34;&gt;So this quick script is meant to replicate the &amp;rsquo;last input first&amp;rsquo; feature in certain keyboards.&lt;/h3&gt;
+&lt;h3 id=&#34;the-script-is-written-in-rust-and-uses-the-device_query-cratehttpscratesiocratesdevice_query-crate-to-handle-the-users-input&#34;&gt;The script is written in Rust and uses the &lt;a href=&#34;https://crates.io/crates/device_query&#34;&gt;&lt;code&gt;device_query crate&lt;/code&gt;&lt;/a&gt; crate to handle the users input.&lt;/h3&gt;
+&lt;h3 id=&#34;this-script-is-simple-it-reads-the-input-from-the-user-and-if-the-user-press-two-opposite-directions-at-the-same-time-it-will-only-keep-the-last-input-sent&#34;&gt;This script is simple, it reads the input from the user and if the user press two opposite directions at the same time, it will only keep the last input sent.&lt;/h3&gt;
+&lt;h3 id=&#34;i-am-currently-considering-to-build-a-gui-graphic-user-interface-to-keep-the-management-of-the-user-keymaps-easy-&#34;&gt;I am currently considering to build a gui (graphic user interface) to keep the management of the user keymaps easy ✨&lt;/h3&gt;
 </content>
     </item>
     

@@ -5,6 +5,7 @@ draft = false
 description = "A simple script to calculate the CIDR of a given IP address"
 tags = ['python','network']
 +++
+
 [`🐙 Github source here 🐙`](https://github.com/RealColorDream/CIDR_script)
 # CIDR calculator is a simple python script to calculate the CIDR notation of an IP address.
 ## Its meant to be as easy as possible to use

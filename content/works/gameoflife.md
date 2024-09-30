@@ -6,7 +6,6 @@ description = "A simple implementation of the conway's game of life written in r
 tags = ['rust']
 +++
 
-
 ## A simple implementation of the conway's game of life written in rust.
 
 [`🐙 Github source here 🐙`](https://github.com/RealColorDream/game-of-life)
@@ -36,7 +35,8 @@ These rules create a dynamic system where simple initial configurations can lead
 
 ### The game is implemented using embedded-graphics and runs on a 64x64 monochrome display.
 
-![](img/conways-Game-Of-Life.png)
+![Description of Image](/Portfolio/img/game-of-life.png)
+
 
 #### Keybinds:
 - `Space` to pause/unpause the game
