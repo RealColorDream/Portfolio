@@ -2,9 +2,167 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mon Portfolio</title>
-    <link>http://localhost:1313/Portfolio/fr/</link>
+    <link>https://realcolordream.github.io/Portfolio/fr/</link>
     <description>Recent content on Mon Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="http://localhost:1313/Portfolio/fr/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language>
+    <lastBuildDate>Mon, 30 Sep 2024 21:20:13 +0200</lastBuildDate><atom:link href="https://realcolordream.github.io/Portfolio/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[NOUVEAU] Go_Gamedle en GoLang 🐹!</title>
+      <link>https://realcolordream.github.io/Portfolio/fr/works/gogamedle/</link>
+      <pubDate>Mon, 30 Sep 2024 21:20:13 +0200</pubDate>
+      
+      <guid>https://realcolordream.github.io/Portfolio/fr/works/gogamedle/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/GoGamedle&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;go_gamedle-en-golang-&#34;&gt;Go_Gamedle en GoLang 🐹!&lt;/h1&gt;
+&lt;h2 id=&#34;présentation-du-jeu&#34;&gt;Présentation du jeu&lt;/h2&gt;
+&lt;p&gt;Go_Gamedle est un jeu simple qui consiste à deviner un jeu à partir d&amp;rsquo;une image de couverture ou d&amp;rsquo;une description.
+Le jeu est écrit en GoLang et utilise le framework web &lt;a href=&#34;https://gin-gonic.com/&#34;&gt;&lt;code&gt;gin-gonic&lt;/code&gt;&lt;/a&gt; pour afficher une page HTML avec le jeu.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;🚧 actuellement en cours de développement 🚧&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;quest-ce-que-ce-projet-utilise-&#34;&gt;Qu&amp;rsquo;est-ce que ce projet utilise ?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GoLang&lt;/li&gt;
+&lt;li&gt;Gin (Framework web en GoLang)&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS (Bulma CSS pour la commodité)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Et principalement l&amp;rsquo;API de &lt;a href=&#34;https://www.igdb.com/&#34;&gt;IGDB&lt;/a&gt; qui est une base de données de jeux vidéo.&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/GoGamedle&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;go_gamedle-en-golang-&#34;&gt;Go_Gamedle en GoLang 🐹!&lt;/h1&gt;
+&lt;h2 id=&#34;présentation-du-jeu&#34;&gt;Présentation du jeu&lt;/h2&gt;
+&lt;p&gt;Go_Gamedle est un jeu simple qui consiste à deviner un jeu à partir d&amp;rsquo;une image de couverture ou d&amp;rsquo;une description.
+Le jeu est écrit en GoLang et utilise le framework web &lt;a href=&#34;https://gin-gonic.com/&#34;&gt;&lt;code&gt;gin-gonic&lt;/code&gt;&lt;/a&gt; pour afficher une page HTML avec le jeu.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;🚧 actuellement en cours de développement 🚧&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;quest-ce-que-ce-projet-utilise-&#34;&gt;Qu&amp;rsquo;est-ce que ce projet utilise ?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GoLang&lt;/li&gt;
+&lt;li&gt;Gin (Framework web en GoLang)&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS (Bulma CSS pour la commodité)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Et principalement l&amp;rsquo;API de &lt;a href=&#34;https://www.igdb.com/&#34;&gt;IGDB&lt;/a&gt; qui est une base de données de jeux vidéo.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Directions Cardinalles Opposées Simultanées (DCOS) en rust 🦀 !</title>
+      <link>https://realcolordream.github.io/Portfolio/fr/works/socd/</link>
+      <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
+      
+      <guid>https://realcolordream.github.io/Portfolio/fr/works/socd/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/socd&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;vous-avez-peut-être-entendu-parler-de-nouveaux-claviers-avec-un-temps-de-réponse-court-certains-dentre-eux-ont-des-fonctionnalités-qui-leur-permettent-de-répondre-uniquement-à-la-dernière-entrée-envoyée-par-lutilisateur&#34;&gt;Vous avez peut-être entendu parler de nouveaux claviers avec un temps de réponse court. Certains d&amp;rsquo;entre eux ont des fonctionnalités qui leur permettent de répondre uniquement à la dernière entrée envoyée par l&amp;rsquo;utilisateur.&lt;/h3&gt;
+&lt;h3 id=&#34;voici-une-courte-vidéo-qui-explique-comment-fonctionne-la-dcos-&#34;&gt;Voici une courte vidéo qui explique comment fonctionne la DCOS :&lt;/h3&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NPWfg0BjY2g?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h3 id=&#34;ce-petit-script-est-destiné-à-répliquer-la-fonctionnalité-dernière-entrée-en-premier-de-certains-claviers&#34;&gt;Ce petit script est destiné à répliquer la fonctionnalité &amp;ldquo;dernière entrée en premier&amp;rdquo; de certains claviers.&lt;/h3&gt;
+&lt;h3 id=&#34;le-script-est-écrit-en-rust-et-utilise-la-crate-device_queryhttpscratesiocratesdevice_query-pour-gérer-les-entrées-de-lutilisateur&#34;&gt;Le script est écrit en Rust et utilise la crate &lt;a href=&#34;https://crates.io/crates/device_query&#34;&gt;&lt;code&gt;device_query&lt;/code&gt;&lt;/a&gt; pour gérer les entrées de l&amp;rsquo;utilisateur.&lt;/h3&gt;
+&lt;h3 id=&#34;ce-script-est-simple-il-lit-lentrée-de-lutilisateur-et-si-lutilisateur-appuie-sur-deux-directions-opposées-en-même-temps-il-conservera-uniquement-la-dernière-entrée-envoyée&#34;&gt;Ce script est simple, il lit l&amp;rsquo;entrée de l&amp;rsquo;utilisateur et si l&amp;rsquo;utilisateur appuie sur deux directions opposées en même temps, il conservera uniquement la dernière entrée envoyée.&lt;/h3&gt;
+&lt;h3 id=&#34;je-suis-actuellement-en-train-de-considérer-la-création-dune-interface-graphique-utilisateur-gui-pour-faciliter-la-gestion-des-cartes-clavier-de-lutilisateur-&#34;&gt;Je suis actuellement en train de considérer la création d&amp;rsquo;une interface graphique utilisateur (GUI) pour faciliter la gestion des cartes clavier de l&amp;rsquo;utilisateur ✨&lt;/h3&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/socd&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;vous-avez-peut-être-entendu-parler-de-nouveaux-claviers-avec-un-temps-de-réponse-court-certains-dentre-eux-ont-des-fonctionnalités-qui-leur-permettent-de-répondre-uniquement-à-la-dernière-entrée-envoyée-par-lutilisateur&#34;&gt;Vous avez peut-être entendu parler de nouveaux claviers avec un temps de réponse court. Certains d&amp;rsquo;entre eux ont des fonctionnalités qui leur permettent de répondre uniquement à la dernière entrée envoyée par l&amp;rsquo;utilisateur.&lt;/h3&gt;
+&lt;h3 id=&#34;voici-une-courte-vidéo-qui-explique-comment-fonctionne-la-dcos-&#34;&gt;Voici une courte vidéo qui explique comment fonctionne la DCOS :&lt;/h3&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NPWfg0BjY2g?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h3 id=&#34;ce-petit-script-est-destiné-à-répliquer-la-fonctionnalité-dernière-entrée-en-premier-de-certains-claviers&#34;&gt;Ce petit script est destiné à répliquer la fonctionnalité &amp;ldquo;dernière entrée en premier&amp;rdquo; de certains claviers.&lt;/h3&gt;
+&lt;h3 id=&#34;le-script-est-écrit-en-rust-et-utilise-la-crate-device_queryhttpscratesiocratesdevice_query-pour-gérer-les-entrées-de-lutilisateur&#34;&gt;Le script est écrit en Rust et utilise la crate &lt;a href=&#34;https://crates.io/crates/device_query&#34;&gt;&lt;code&gt;device_query&lt;/code&gt;&lt;/a&gt; pour gérer les entrées de l&amp;rsquo;utilisateur.&lt;/h3&gt;
+&lt;h3 id=&#34;ce-script-est-simple-il-lit-lentrée-de-lutilisateur-et-si-lutilisateur-appuie-sur-deux-directions-opposées-en-même-temps-il-conservera-uniquement-la-dernière-entrée-envoyée&#34;&gt;Ce script est simple, il lit l&amp;rsquo;entrée de l&amp;rsquo;utilisateur et si l&amp;rsquo;utilisateur appuie sur deux directions opposées en même temps, il conservera uniquement la dernière entrée envoyée.&lt;/h3&gt;
+&lt;h3 id=&#34;je-suis-actuellement-en-train-de-considérer-la-création-dune-interface-graphique-utilisateur-gui-pour-faciliter-la-gestion-des-cartes-clavier-de-lutilisateur-&#34;&gt;Je suis actuellement en train de considérer la création d&amp;rsquo;une interface graphique utilisateur (GUI) pour faciliter la gestion des cartes clavier de l&amp;rsquo;utilisateur ✨&lt;/h3&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Implémentation du jeu de la vie de Conway en Rust 🦀</title>
+      <link>https://realcolordream.github.io/Portfolio/fr/works/gameoflife/</link>
+      <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
+      
+      <guid>https://realcolordream.github.io/Portfolio/fr/works/gameoflife/</guid>
+      <description>&lt;h2 id=&#34;une-implémentation-simple-du-jeu-de-la-vie-de-conway-écrite-en-rust&#34;&gt;Une implémentation simple du jeu de la vie de Conway écrite en Rust.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/game-of-life&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;présentation-du-jeu&#34;&gt;Présentation du jeu&lt;/h2&gt;
+&lt;p&gt;Le jeu de la vie de Conway est un automate cellulaire inventé par le mathématicien britannique John Horton Conway en 1970. Il s&amp;rsquo;agit d&amp;rsquo;un jeu à zéro joueur, ce qui signifie que son évolution est déterminée par son état initial, sans nécessiter d&amp;rsquo;entrée supplémentaire. Le jeu se compose d&amp;rsquo;une grille de cellules qui peuvent être soit vivantes, soit mortes, et il évolue à travers une série de générations en fonction d&amp;rsquo;un ensemble de règles simples.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;une-implémentation-simple-du-jeu-de-la-vie-de-conway-écrite-en-rust&#34;&gt;Une implémentation simple du jeu de la vie de Conway écrite en Rust.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/game-of-life&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;présentation-du-jeu&#34;&gt;Présentation du jeu&lt;/h2&gt;
+&lt;p&gt;Le jeu de la vie de Conway est un automate cellulaire inventé par le mathématicien britannique John Horton Conway en 1970. Il s&amp;rsquo;agit d&amp;rsquo;un jeu à zéro joueur, ce qui signifie que son évolution est déterminée par son état initial, sans nécessiter d&amp;rsquo;entrée supplémentaire. Le jeu se compose d&amp;rsquo;une grille de cellules qui peuvent être soit vivantes, soit mortes, et il évolue à travers une série de générations en fonction d&amp;rsquo;un ensemble de règles simples.&lt;/p&gt;
+&lt;h2 id=&#34;règles&#34;&gt;Règles&lt;/h2&gt;
+&lt;p&gt;L&amp;rsquo;état de chaque cellule de la grille est mis à jour simultanément en fonction des règles suivantes :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Survie&lt;/strong&gt; : Une cellule vivante avec deux ou trois cellules vivantes voisines reste vivante à la génération suivante.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mort&lt;/strong&gt; : Une cellule vivante avec moins de deux cellules vivantes voisines meurt (sous-population), et une cellule vivante avec plus de trois cellules vivantes voisines meurt (surpopulation).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Naissance&lt;/strong&gt; : Une cellule morte avec exactement trois cellules vivantes voisines devient vivante (reproduction).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ces règles créent un système dynamique où des configurations initiales simples peuvent conduire à des comportements complexes au fil du temps.&lt;/p&gt;
+&lt;h3 id=&#34;pour-construire-et-exécuter-ce-projet-vous-devez-avoir-les-éléments-suivants-installés-&#34;&gt;Pour construire et exécuter ce projet, vous devez avoir les éléments suivants installés :&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rust&lt;/li&gt;
+&lt;li&gt;Cargo&lt;/li&gt;
+&lt;li&gt;SDL2 (référez-vous au &lt;a href=&#34;https://docs.rs/embedded-graphics-simulator/0.6.0/embedded_graphics_simulator/#setup&#34;&gt;guide de la crate embedded-graphics&lt;/a&gt; pour l&amp;rsquo;installation)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;le-jeu-est-implémenté-à-laide-de-embedded-graphics-et-sexécute-sur-un-écran-monochrome-64x64&#34;&gt;Le jeu est implémenté à l&amp;rsquo;aide de embedded-graphics et s&amp;rsquo;exécute sur un écran monochrome 64x64.&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Description de l&amp;rsquo;image&#34; src=&#34;https://realcolordream.github.io/Portfolio/Portfolio/img/game-of-life.png&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;raccourcis-clavier-&#34;&gt;Raccourcis clavier :&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Espace&lt;/code&gt; pour mettre en pause/démarrer le jeu&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;TAB&lt;/code&gt; pour réinitialiser le jeu&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Touches fléchées&lt;/code&gt; pour déplacer le curseur&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Entrée&lt;/code&gt; pour basculer l&amp;rsquo;état de la cellule sous le curseur lorsque le jeu est en pause&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Échap&lt;/code&gt; pour quitter le jeu&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Clic gauche&lt;/code&gt; pour faire apparaître un vaisseau spatial à la position du curseur&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Amusez-vous !&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Script de calcul CIDR en python (calculateur de sous-réseau) 🐍</title>
+      <link>https://realcolordream.github.io/Portfolio/fr/works/cidr_script/</link>
+      <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
+      
+      <guid>https://realcolordream.github.io/Portfolio/fr/works/cidr_script/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/CIDR_script&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;le-calculateur-cidr-est-un-script-python-simple-pour-calculer-la-notation-cidr-dune-adresse-ip&#34;&gt;Le calculateur CIDR est un script python simple pour calculer la notation CIDR d&amp;rsquo;une adresse IP.&lt;/h1&gt;
+&lt;h2 id=&#34;il-est-conçu-pour-être-aussi-facile-à-utiliser-que-possible&#34;&gt;Il est conçu pour être aussi facile à utiliser que possible&lt;/h2&gt;
+&lt;h2 id=&#34;utilisation-&#34;&gt;Utilisation :&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; CIDR &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; _
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CIDR &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; _&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;CIDR(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;192.168.0.0&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;24&lt;/span&gt;) &lt;span style=&#34;color:#75715e&#34;&gt;# IP, nombre de sous-réseaux&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(CIDR) &lt;span style=&#34;color:#75715e&#34;&gt;# par défaut, il affichera toutes les informations de cette IP&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(CIDR&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;first_IP_device())
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;méthodes-&#34;&gt;Méthodes :&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; method &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; dir(_&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;CIDR):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;not&lt;/span&gt; method&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;startswith(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;__&amp;#34;&lt;/span&gt;):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        print(method)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# [&amp;#39;broadcast_IP&amp;#39;, &amp;#39;first_IP&amp;#39;, &amp;#39;first_IP_device&amp;#39;, &amp;#39;get_mask_Number&amp;#39;, &amp;#39;get_network_IP&amp;#39;, &amp;#39;last_IP&amp;#39;, &amp;#39;last_IP_device&amp;#39;, &amp;#39;number_of_IP&amp;#39;, &amp;#39;number_of_IP_device&amp;#39;, &amp;#39;parse_IP_to_int&amp;#39;, &amp;#39;parse_int_to_IP&amp;#39;, &amp;#39;parse_ip_to_list&amp;#39;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/CIDR_script&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;le-calculateur-cidr-est-un-script-python-simple-pour-calculer-la-notation-cidr-dune-adresse-ip&#34;&gt;Le calculateur CIDR est un script python simple pour calculer la notation CIDR d&amp;rsquo;une adresse IP.&lt;/h1&gt;
+&lt;h2 id=&#34;il-est-conçu-pour-être-aussi-facile-à-utiliser-que-possible&#34;&gt;Il est conçu pour être aussi facile à utiliser que possible&lt;/h2&gt;
+&lt;h2 id=&#34;utilisation-&#34;&gt;Utilisation :&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; CIDR &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; _
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CIDR &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; _&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;CIDR(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;192.168.0.0&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;24&lt;/span&gt;) &lt;span style=&#34;color:#75715e&#34;&gt;# IP, nombre de sous-réseaux&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(CIDR) &lt;span style=&#34;color:#75715e&#34;&gt;# par défaut, il affichera toutes les informations de cette IP&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(CIDR&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;first_IP_device())
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;méthodes-&#34;&gt;Méthodes :&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; method &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; dir(_&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;CIDR):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;not&lt;/span&gt; method&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;startswith(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;__&amp;#34;&lt;/span&gt;):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        print(method)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# [&amp;#39;broadcast_IP&amp;#39;, &amp;#39;first_IP&amp;#39;, &amp;#39;first_IP_device&amp;#39;, &amp;#39;get_mask_Number&amp;#39;, &amp;#39;get_network_IP&amp;#39;, &amp;#39;last_IP&amp;#39;, &amp;#39;last_IP_device&amp;#39;, &amp;#39;number_of_IP&amp;#39;, &amp;#39;number_of_IP_device&amp;#39;, &amp;#39;parse_IP_to_int&amp;#39;, &amp;#39;parse_int_to_IP&amp;#39;, &amp;#39;parse_ip_to_list&amp;#39;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
+    </item>
+    
   </channel>
 </rss>

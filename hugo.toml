@@ -3,7 +3,8 @@ languageCode = 'fr'                                     # Default language
 title = 'Portfolio'
 
 theme = "terminal"
-paginate = 5
+# paginate = 5 deprecated
+pagination.pagerSize = 5
 
 [params]
 contentTypeName = "posts"
@@ -17,8 +18,10 @@ readingTime = true
 # Toc = true
 # TocTitle = "Table of Contents"
 
+
 [languages]
 [languages.en]
+weight = 1
 languageName = "English"
 title = "My Portfolio"
 
@@ -50,6 +53,7 @@ name = "Personal Projects"
 url = "/works"
 
 [languages.fr]
+weight = 2
 languageName = "French"
 title = "Mon Portfolio"
 
@@ -72,14 +76,14 @@ logoHomeLink = "/Portfolio/fr/"
 [languages.fr.menu]
 [[languages.fr.menu.main]]
 identifier = "School projects"
-name = "School projects"
-url = "school/"
+name = "Projets scolaires"
+url = "/fr/school/"
 
 [[languages.fr.menu.main]]
 identifier = "personal-projects"
-name = "Personal Projects"
+name = "Projets Personnels"
 #url = "/fr/works/"
-url = "works/"
+url = "/fr/works/"
 
 #[[languages.fr.menu.main]]
 #identifier = "posts"

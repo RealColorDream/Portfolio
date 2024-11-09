@@ -2,85 +2,155 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Portfolio/</loc>
+    <loc>https://realcolordream.github.io/Portfolio/</loc>
     <lastmod>2024-09-30T21:20:13+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/Portfolio/fr/"
+                href="https://realcolordream.github.io/Portfolio/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Portfolio/"
+                href="https://realcolordream.github.io/Portfolio/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Portfolio/works/</loc>
+    <loc>https://realcolordream.github.io/Portfolio/works/</loc>
     <lastmod>2024-09-30T21:20:13+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/Portfolio/fr/works/"
+                href="https://realcolordream.github.io/Portfolio/fr/works/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Portfolio/works/"
+                href="https://realcolordream.github.io/Portfolio/works/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Portfolio/works/gogamedle/</loc>
-    <lastmod>2024-09-30T21:20:13+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/game/</loc>
-    <lastmod>2024-09-30T21:20:13+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/golang/</loc>
-    <lastmod>2024-09-30T21:20:13+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/</loc>
+    <loc>https://realcolordream.github.io/Portfolio/works/gogamedle/</loc>
     <lastmod>2024-09-30T21:20:13+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/Portfolio/fr/tags/"
+                href="https://realcolordream.github.io/Portfolio/fr/works/gogamedle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Portfolio/tags/"
+                href="https://realcolordream.github.io/Portfolio/works/gogamedle/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Portfolio/works/minesweeper/</loc>
-    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
+    <loc>https://realcolordream.github.io/Portfolio/tags/game/</loc>
+    <lastmod>2024-09-30T21:20:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/works/cidr_script/</loc>
-    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/works/gameoflife/</loc>
-    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/network/</loc>
-    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/python/</loc>
-    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/rust/</loc>
-    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/works/socd/</loc>
-    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/categories/</loc>
+    <loc>https://realcolordream.github.io/Portfolio/tags/golang/</loc>
+    <lastmod>2024-09-30T21:20:13+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/Portfolio/fr/categories/"
+                href="https://realcolordream.github.io/Portfolio/fr/tags/golang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Portfolio/categories/"
+                href="https://realcolordream.github.io/Portfolio/tags/golang/"
+                />
+  </url><url>
+    <loc>https://realcolordream.github.io/Portfolio/tags/</loc>
+    <lastmod>2024-09-30T21:20:13+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://realcolordream.github.io/Portfolio/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://realcolordream.github.io/Portfolio/tags/"
+                />
+  </url><url>
+    <loc>https://realcolordream.github.io/Portfolio/works/minesweeper/</loc>
+    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
+  </url><url>
+    <loc>https://realcolordream.github.io/Portfolio/works/cidr_script/</loc>
+    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://realcolordream.github.io/Portfolio/fr/works/cidr_script/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://realcolordream.github.io/Portfolio/works/cidr_script/"
+                />
+  </url><url>
+    <loc>https://realcolordream.github.io/Portfolio/works/gameoflife/</loc>
+    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://realcolordream.github.io/Portfolio/fr/works/gameoflife/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://realcolordream.github.io/Portfolio/works/gameoflife/"
+                />
+  </url><url>
+    <loc>https://realcolordream.github.io/Portfolio/tags/network/</loc>
+    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
+  </url><url>
+    <loc>https://realcolordream.github.io/Portfolio/tags/python/</loc>
+    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://realcolordream.github.io/Portfolio/fr/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://realcolordream.github.io/Portfolio/tags/python/"
+                />
+  </url><url>
+    <loc>https://realcolordream.github.io/Portfolio/tags/rust/</loc>
+    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://realcolordream.github.io/Portfolio/fr/tags/rust/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://realcolordream.github.io/Portfolio/tags/rust/"
+                />
+  </url><url>
+    <loc>https://realcolordream.github.io/Portfolio/works/socd/</loc>
+    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://realcolordream.github.io/Portfolio/fr/works/socd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://realcolordream.github.io/Portfolio/works/socd/"
+                />
+  </url><url>
+    <loc>https://realcolordream.github.io/Portfolio/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://realcolordream.github.io/Portfolio/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://realcolordream.github.io/Portfolio/categories/"
                 />
   </url>
 </urlset>

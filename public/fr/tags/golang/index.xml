@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Mon Portfolio</title>
+    <link>https://realcolordream.github.io/Portfolio/fr/tags/golang/</link>
+    <description>Recent content in Golang on Mon Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 30 Sep 2024 21:20:13 +0200</lastBuildDate><atom:link href="https://realcolordream.github.io/Portfolio/fr/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[NOUVEAU] Go_Gamedle en GoLang 🐹!</title>
+      <link>https://realcolordream.github.io/Portfolio/fr/works/gogamedle/</link>
+      <pubDate>Mon, 30 Sep 2024 21:20:13 +0200</pubDate>
+      
+      <guid>https://realcolordream.github.io/Portfolio/fr/works/gogamedle/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/GoGamedle&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;go_gamedle-en-golang-&#34;&gt;Go_Gamedle en GoLang 🐹!&lt;/h1&gt;
+&lt;h2 id=&#34;présentation-du-jeu&#34;&gt;Présentation du jeu&lt;/h2&gt;
+&lt;p&gt;Go_Gamedle est un jeu simple qui consiste à deviner un jeu à partir d&amp;rsquo;une image de couverture ou d&amp;rsquo;une description.
+Le jeu est écrit en GoLang et utilise le framework web &lt;a href=&#34;https://gin-gonic.com/&#34;&gt;&lt;code&gt;gin-gonic&lt;/code&gt;&lt;/a&gt; pour afficher une page HTML avec le jeu.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;🚧 actuellement en cours de développement 🚧&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;quest-ce-que-ce-projet-utilise-&#34;&gt;Qu&amp;rsquo;est-ce que ce projet utilise ?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GoLang&lt;/li&gt;
+&lt;li&gt;Gin (Framework web en GoLang)&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS (Bulma CSS pour la commodité)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Et principalement l&amp;rsquo;API de &lt;a href=&#34;https://www.igdb.com/&#34;&gt;IGDB&lt;/a&gt; qui est une base de données de jeux vidéo.&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/GoGamedle&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;go_gamedle-en-golang-&#34;&gt;Go_Gamedle en GoLang 🐹!&lt;/h1&gt;
+&lt;h2 id=&#34;présentation-du-jeu&#34;&gt;Présentation du jeu&lt;/h2&gt;
+&lt;p&gt;Go_Gamedle est un jeu simple qui consiste à deviner un jeu à partir d&amp;rsquo;une image de couverture ou d&amp;rsquo;une description.
+Le jeu est écrit en GoLang et utilise le framework web &lt;a href=&#34;https://gin-gonic.com/&#34;&gt;&lt;code&gt;gin-gonic&lt;/code&gt;&lt;/a&gt; pour afficher une page HTML avec le jeu.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;🚧 actuellement en cours de développement 🚧&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;quest-ce-que-ce-projet-utilise-&#34;&gt;Qu&amp;rsquo;est-ce que ce projet utilise ?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GoLang&lt;/li&gt;
+&lt;li&gt;Gin (Framework web en GoLang)&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS (Bulma CSS pour la commodité)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Et principalement l&amp;rsquo;API de &lt;a href=&#34;https://www.igdb.com/&#34;&gt;IGDB&lt;/a&gt; qui est une base de données de jeux vidéo.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

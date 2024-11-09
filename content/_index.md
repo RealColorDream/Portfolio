@@ -2,7 +2,7 @@
 
 ## Here you can find all of my works, projects and experiences.
 
-### Feel free to contact me with my [`github profiles`](https://github.com/RealColorDream).
+### Feel free to contact me with my [`github profile`](https://github.com/RealColorDream).
 
 
 {{< video src="video/aperture-science.mp4" >}}

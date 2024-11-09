@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  
+    <title>Implémentation du jeu de la vie de Conway en Rust 🦀 :: Mon Portfolio</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Une implémentation simple du jeu de la vie de Conway écrite en Rust." />
+<meta name="keywords" content="" />
+
+  <meta name="robots" content="noodp" />
+
+<link rel="canonical" href="https://realcolordream.github.io/Portfolio/fr/works/gameoflife/" />
+
+
+
+
+
+  
+  <link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/css/buttons.min.2bc533403a27dfe0e93105a92502b42ce4587e2e4a87d9f7d349e51e16e09478.css">
+
+  
+  <link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/css/code.min.00125962708925857e7b66dbc58391d55be1191a3d0ce2034de8c9cd2c481c36.css">
+
+  
+  <link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/css/fonts.min.90c955c31dd7c0e05aae3d4f583d4d8a2af799d69c961337eaf2a825063a55dd.css">
+
+  
+  <link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/css/footer.min.2e3eb191baee58dd05a9f0104ac1fab0827bca7c64dafe0b2579f934c33a1d69.css">
+
+  
+  <link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/css/gist.min.a751e8b0abe1ba8bc53ced52a38b19d8950fe78ca29454ea8c2595cf26aad5c0.css">
+
+  
+  <link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/css/header.min.b6fb4423cf82a9f9d7abc9cd010223fa3d70a6526a3f28f8e17d814c06e18f9e.css">
+
+  
+  <link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/css/main.min.1d8be2dd1b5de9fdaed058c8c59fcf4485f36619574abfb47ed0cfda4812c16d.css">
+
+  
+  <link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/css/menu.min.83637a90d903026bc280d3f82f96ceb06c5fc72b7c1a8d686afb5bbf818a29f7.css">
+
+  
+  <link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/css/pagination.min.82f6400eae7c7c6dc3c866733c2ec0579e4089608fea69400ff85b3880aa0d3c.css">
+
+  
+  <link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/css/post.min.fc74ca360273c1d828da3c02b8174eba435607b369d98418ccc6f2243cd4e75d.css">
+
+  
+  <link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/css/prism.min.9023bbc24533d09e97a51a0a42a5a7bfe4c591ae167c5551fb1d2191d11977c0.css">
+
+  
+  <link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/css/syntax.min.cc789ed9377260d7949ea4c18781fc58959a89287210fe4edbff44ebfc1511b6.css">
+
+  
+  <link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/css/terminal.min.736caf886baa67df630c4cde30fbdc5115122eb74c6246f15a31401344bfa2f0.css">
+
+  
+  <link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/css/terms.min.b81791663c3790e738e571cdbf802312390d30e4b1d8dc9d814a5b5454d0ac11.css">
+
+
+<link rel="stylesheet" href="https://realcolordream.github.io/Portfolio/terminal.css">
+
+
+
+
+<link rel="shortcut icon" href="https://realcolordream.github.io/Portfolio/favicon.png">
+<link rel="apple-touch-icon" href="https://realcolordream.github.io/Portfolio/apple-touch-icon.png">
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="fr" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Implémentation du jeu de la vie de Conway en Rust 🦀">
+<meta property="og:description" content="Une implémentation simple du jeu de la vie de Conway écrite en Rust." />
+<meta property="og:url" content="https://realcolordream.github.io/Portfolio/fr/works/gameoflife/" />
+<meta property="og:site_name" content="Mon Portfolio" />
+
+  <meta property="og:image" content="https://realcolordream.github.io/Portfolio/og-image.png">
+
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+
+
+  <meta property="article:published_time" content="2024-09-22 12:34:13 &#43;0200 CEST" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+
+
+<div class="container center">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/Portfolio/fr/">
+  <div class="logo">
+    RealColorDream - fr
+  </div>
+</a>
+
+    </div>
+    
+      <ul class="menu menu--mobile">
+  <li class="menu__trigger">Menu&nbsp;▾</li>
+  <li>
+    <ul class="menu__dropdown">
+      
+        
+          <li><a href="/Portfolio/fr/works/">Projets Personnels</a></li>
+        
+      
+        
+          <li><a href="/Portfolio/fr/school/">Projets scolaires</a></li>
+        
+      
+      
+        <hr />
+        
+          <li>
+            <a href="https://realcolordream.github.io/Portfolio/">English</a>
+          </li>
+        
+          <li>
+            <a href="https://realcolordream.github.io/Portfolio/fr/">French</a>
+          </li>
+        
+      
+    </ul>
+  </li>
+</ul>
+
+    
+    
+      <ul class="menu menu--desktop menu--language-selector">
+  <li class="menu__trigger">French&nbsp;▾</li>
+  <li>
+    <ul class="menu__dropdown">
+      
+        <li><a href="https://realcolordream.github.io/Portfolio/">English</a></li>
+      
+        <li><a href="https://realcolordream.github.io/Portfolio/fr/">French</a></li>
+      
+    </ul>
+  </li>
+</ul>
+
+    
+  </div>
+  
+    <nav class="navigation-menu">
+  <ul class="navigation-menu__inner menu--desktop">
+    
+      
+        
+          <li><a href="/Portfolio/fr/works/" >Projets Personnels</a></li>
+        
+      
+        
+          <li><a href="/Portfolio/fr/school/" >Projets scolaires</a></li>
+        
+      
+      
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<article class="post">
+  <h1 class="post-title">
+    <a href="https://realcolordream.github.io/Portfolio/fr/works/gameoflife/">Implémentation du jeu de la vie de Conway en Rust 🦀</a>
+  </h1>
+  <div class="post-meta"><time class="post-date">2024-09-22</time><span class="post-reading-time">2 min de lecture (293 mots)</span></div>
+
+  
+    <span class="post-tags">
+      
+      #<a href="https://realcolordream.github.io/Portfolio/fr/tags/rust/">rust</a>&nbsp;
+      
+    </span>
+  
+  
+
+
+  
+
+  <div class="post-content"><div>
+        <h2 id="une-implémentation-simple-du-jeu-de-la-vie-de-conway-écrite-en-rust">Une implémentation simple du jeu de la vie de Conway écrite en Rust.<a href="#une-implémentation-simple-du-jeu-de-la-vie-de-conway-écrite-en-rust" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p><a href="https://github.com/RealColorDream/game-of-life"><code>🐙 Source Github ici 🐙</code></a></p>
+<h2 id="présentation-du-jeu">Présentation du jeu<a href="#présentation-du-jeu" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p>Le jeu de la vie de Conway est un automate cellulaire inventé par le mathématicien britannique John Horton Conway en 1970. Il s&rsquo;agit d&rsquo;un jeu à zéro joueur, ce qui signifie que son évolution est déterminée par son état initial, sans nécessiter d&rsquo;entrée supplémentaire. Le jeu se compose d&rsquo;une grille de cellules qui peuvent être soit vivantes, soit mortes, et il évolue à travers une série de générations en fonction d&rsquo;un ensemble de règles simples.</p>
+<h2 id="règles">Règles<a href="#règles" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p>L&rsquo;état de chaque cellule de la grille est mis à jour simultanément en fonction des règles suivantes :</p>
+<ol>
+<li><strong>Survie</strong> : Une cellule vivante avec deux ou trois cellules vivantes voisines reste vivante à la génération suivante.</li>
+<li><strong>Mort</strong> : Une cellule vivante avec moins de deux cellules vivantes voisines meurt (sous-population), et une cellule vivante avec plus de trois cellules vivantes voisines meurt (surpopulation).</li>
+<li><strong>Naissance</strong> : Une cellule morte avec exactement trois cellules vivantes voisines devient vivante (reproduction).</li>
+</ol>
+<p>Ces règles créent un système dynamique où des configurations initiales simples peuvent conduire à des comportements complexes au fil du temps.</p>
+<h3 id="pour-construire-et-exécuter-ce-projet-vous-devez-avoir-les-éléments-suivants-installés-">Pour construire et exécuter ce projet, vous devez avoir les éléments suivants installés :<a href="#pour-construire-et-exécuter-ce-projet-vous-devez-avoir-les-éléments-suivants-installés-" class="hanchor" ariaLabel="Anchor">#</a> </h3>
+<ul>
+<li>Rust</li>
+<li>Cargo</li>
+<li>SDL2 (référez-vous au <a href="https://docs.rs/embedded-graphics-simulator/0.6.0/embedded_graphics_simulator/#setup">guide de la crate embedded-graphics</a> pour l&rsquo;installation)</li>
+</ul>
+<h3 id="le-jeu-est-implémenté-à-laide-de-embedded-graphics-et-sexécute-sur-un-écran-monochrome-64x64">Le jeu est implémenté à l&rsquo;aide de embedded-graphics et s&rsquo;exécute sur un écran monochrome 64x64.<a href="#le-jeu-est-implémenté-à-laide-de-embedded-graphics-et-sexécute-sur-un-écran-monochrome-64x64" class="hanchor" ariaLabel="Anchor">#</a> </h3>
+<p><img alt="Description de l&rsquo;image" src="/Portfolio/img/game-of-life.png"></p>
+<h4 id="raccourcis-clavier-">Raccourcis clavier :<a href="#raccourcis-clavier-" class="hanchor" ariaLabel="Anchor">#</a> </h4>
+<ul>
+<li><code>Espace</code> pour mettre en pause/démarrer le jeu</li>
+<li><code>TAB</code> pour réinitialiser le jeu</li>
+<li><code>Touches fléchées</code> pour déplacer le curseur</li>
+<li><code>Entrée</code> pour basculer l&rsquo;état de la cellule sous le curseur lorsque le jeu est en pause</li>
+<li><code>Échap</code> pour quitter le jeu</li>
+<li><code>Clic gauche</code> pour faire apparaître un vaisseau spatial à la position du curseur</li>
+</ul>
+<p>Amusez-vous !</p>
+
+      </div></div>
+
+  
+
+  
+    
+
+  
+</article>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>RealColorDream © 2024 (Powered by <a href="https://gohugo.io">Hugo</a>)</span>
+    
+      <span>:: Forked <a href="https://github.com/panr/hugo-theme-terminal" target="_blank">Terminal Theme</a> made by <a href="https://github.com/panr" target="_blank">panr</a> (MIT License) ::</span>
+      </div>
+  </div>
+</footer>
+
+
+
+
+
+
+<script type="text/javascript" src="/Portfolio/bundle.min.js"></script>
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

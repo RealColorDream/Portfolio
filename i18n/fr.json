@@ -1,0 +1,11 @@
+{
+  "welcome": "Bienvenue sur mon portfolio !",
+  "findWorks": "Vous y trouverez tous mes travaux, projets et expériences.",
+  "contactme": "N'hésitez pas à me contacter avec mon ",
+  "githubProfiles": "profil Github",
+  "visitor": "Visiteur",
+  "hello": "Bonjour",
+  "javacode": "public class PortfolioGreeting {\n    public static void main(String[] args) {\n        System.out.println(greet(\"Visiteur\"));\n    }\n\n    public static String greet(String name) {\n        return \"Bonjour, \" + name + \"! Bienvenue sur mon portfolio! 🎉\";\n    }\n}",
+  "enjoy": "Bonne visite !",
+  "personals_projects": "Ici vous pouvez trouver mes projets personnels"
+}

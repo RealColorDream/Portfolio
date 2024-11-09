@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on My Portfolio</title>
-    <link>http://localhost:1313/Portfolio/tags/python/</link>
+    <link>https://realcolordream.github.io/Portfolio/tags/python/</link>
     <description>Recent content in Python on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Sep 2024 12:34:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Sep 2024 12:34:13 +0200</lastBuildDate><atom:link href="https://realcolordream.github.io/Portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CIDR calculator script in python (subnet calculator) 🐍</title>
-      <link>http://localhost:1313/Portfolio/works/cidr_script/</link>
+      <link>https://realcolordream.github.io/Portfolio/works/cidr_script/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>http://localhost:1313/Portfolio/works/cidr_script/</guid>
+      <guid>https://realcolordream.github.io/Portfolio/works/cidr_script/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/CIDR_script&#34;&gt;&lt;code&gt;🐙 Github source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;cidr-calculator-is-a-simple-python-script-to-calculate-the-cidr-notation-of-an-ip-address&#34;&gt;CIDR calculator is a simple python script to calculate the CIDR notation of an IP address.&lt;/h1&gt;
 &lt;h2 id=&#34;its-meant-to-be-as-easy-as-possible-to-use&#34;&gt;Its meant to be as easy as possible to use&lt;/h2&gt;

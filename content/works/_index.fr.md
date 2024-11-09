@@ -1,1 +1,1 @@
-# Ici vous pouvez trouver mes projets personnels 🚀
+# {{< i18n key="personals_projects" >}} 🚀
