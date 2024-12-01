@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mon Portfolio</title>
-    <link>https://realcolordream.github.io/Portfolio/fr/works/</link>
+    <link>http://localhost:1313/Portfolio/fr/works/</link>
     <description>Recent content on Mon Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 30 Sep 2024 21:20:13 +0200</lastBuildDate><atom:link href="https://realcolordream.github.io/Portfolio/fr/works/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 21:20:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/fr/works/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[NOUVEAU] Go_Gamedle en GoLang 🐹!</title>
-      <link>https://realcolordream.github.io/Portfolio/fr/works/gogamedle/</link>
+      <link>http://localhost:1313/Portfolio/fr/works/gogamedle/</link>
       <pubDate>Mon, 30 Sep 2024 21:20:13 +0200</pubDate>
       
-      <guid>https://realcolordream.github.io/Portfolio/fr/works/gogamedle/</guid>
+      <guid>http://localhost:1313/Portfolio/fr/works/gogamedle/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/GoGamedle&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;go_gamedle-en-golang-&#34;&gt;Go_Gamedle en GoLang 🐹!&lt;/h1&gt;
 &lt;h2 id=&#34;présentation-du-jeu&#34;&gt;Présentation du jeu&lt;/h2&gt;
@@ -46,10 +46,10 @@ Le jeu est écrit en GoLang et utilise le framework web &lt;a href=&#34;https://
     
     <item>
       <title>Directions Cardinalles Opposées Simultanées (DCOS) en rust 🦀 !</title>
-      <link>https://realcolordream.github.io/Portfolio/fr/works/socd/</link>
+      <link>http://localhost:1313/Portfolio/fr/works/socd/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>https://realcolordream.github.io/Portfolio/fr/works/socd/</guid>
+      <guid>http://localhost:1313/Portfolio/fr/works/socd/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/socd&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;vous-avez-peut-être-entendu-parler-de-nouveaux-claviers-avec-un-temps-de-réponse-court-certains-dentre-eux-ont-des-fonctionnalités-qui-leur-permettent-de-répondre-uniquement-à-la-dernière-entrée-envoyée-par-lutilisateur&#34;&gt;Vous avez peut-être entendu parler de nouveaux claviers avec un temps de réponse court. Certains d&amp;rsquo;entre eux ont des fonctionnalités qui leur permettent de répondre uniquement à la dernière entrée envoyée par l&amp;rsquo;utilisateur.&lt;/h3&gt;
 &lt;h3 id=&#34;voici-une-courte-vidéo-qui-explique-comment-fonctionne-la-dcos-&#34;&gt;Voici une courte vidéo qui explique comment fonctionne la DCOS :&lt;/h3&gt;
@@ -85,10 +85,10 @@ Le jeu est écrit en GoLang et utilise le framework web &lt;a href=&#34;https://
     
     <item>
       <title>Implémentation du jeu de la vie de Conway en Rust 🦀</title>
-      <link>https://realcolordream.github.io/Portfolio/fr/works/gameoflife/</link>
+      <link>http://localhost:1313/Portfolio/fr/works/gameoflife/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>https://realcolordream.github.io/Portfolio/fr/works/gameoflife/</guid>
+      <guid>http://localhost:1313/Portfolio/fr/works/gameoflife/</guid>
       <description>&lt;h2 id=&#34;une-implémentation-simple-du-jeu-de-la-vie-de-conway-écrite-en-rust&#34;&gt;Une implémentation simple du jeu de la vie de Conway écrite en Rust.&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/game-of-life&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;présentation-du-jeu&#34;&gt;Présentation du jeu&lt;/h2&gt;
@@ -112,7 +112,7 @@ Le jeu est écrit en GoLang et utilise le framework web &lt;a href=&#34;https://
 &lt;li&gt;SDL2 (référez-vous au &lt;a href=&#34;https://docs.rs/embedded-graphics-simulator/0.6.0/embedded_graphics_simulator/#setup&#34;&gt;guide de la crate embedded-graphics&lt;/a&gt; pour l&amp;rsquo;installation)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;le-jeu-est-implémenté-à-laide-de-embedded-graphics-et-sexécute-sur-un-écran-monochrome-64x64&#34;&gt;Le jeu est implémenté à l&amp;rsquo;aide de embedded-graphics et s&amp;rsquo;exécute sur un écran monochrome 64x64.&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;Description de l&amp;rsquo;image&#34; src=&#34;https://realcolordream.github.io/Portfolio/Portfolio/img/game-of-life.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Description de l&amp;rsquo;image&#34; src=&#34;http://localhost:1313/Portfolio/Portfolio/img/game-of-life.png&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;raccourcis-clavier-&#34;&gt;Raccourcis clavier :&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Espace&lt;/code&gt; pour mettre en pause/démarrer le jeu&lt;/li&gt;
@@ -128,10 +128,10 @@ Le jeu est écrit en GoLang et utilise le framework web &lt;a href=&#34;https://
     
     <item>
       <title>Script de calcul CIDR en python (calculateur de sous-réseau) 🐍</title>
-      <link>https://realcolordream.github.io/Portfolio/fr/works/cidr_script/</link>
+      <link>http://localhost:1313/Portfolio/fr/works/cidr_script/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>https://realcolordream.github.io/Portfolio/fr/works/cidr_script/</guid>
+      <guid>http://localhost:1313/Portfolio/fr/works/cidr_script/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/CIDR_script&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;le-calculateur-cidr-est-un-script-python-simple-pour-calculer-la-notation-cidr-dune-adresse-ip&#34;&gt;Le calculateur CIDR est un script python simple pour calculer la notation CIDR d&amp;rsquo;une adresse IP.&lt;/h1&gt;
 &lt;h2 id=&#34;il-est-conçu-pour-être-aussi-facile-à-utiliser-que-possible&#34;&gt;Il est conçu pour être aussi facile à utiliser que possible&lt;/h2&gt;

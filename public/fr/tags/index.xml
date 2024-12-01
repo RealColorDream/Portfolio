@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mon Portfolio</title>
-    <link>https://realcolordream.github.io/Portfolio/fr/tags/</link>
+    <link>http://localhost:1313/Portfolio/fr/tags/</link>
     <description>Recent content in Tags on Mon Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 30 Sep 2024 21:20:13 +0200</lastBuildDate><atom:link href="https://realcolordream.github.io/Portfolio/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 21:20:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Golang</title>
-      <link>https://realcolordream.github.io/Portfolio/fr/tags/golang/</link>
+      <link>http://localhost:1313/Portfolio/fr/tags/golang/</link>
       <pubDate>Mon, 30 Sep 2024 21:20:13 +0200</pubDate>
       
-      <guid>https://realcolordream.github.io/Portfolio/fr/tags/golang/</guid>
+      <guid>http://localhost:1313/Portfolio/fr/tags/golang/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Jeu</title>
-      <link>https://realcolordream.github.io/Portfolio/fr/tags/jeu/</link>
+      <link>http://localhost:1313/Portfolio/fr/tags/jeu/</link>
       <pubDate>Mon, 30 Sep 2024 21:20:13 +0200</pubDate>
       
-      <guid>https://realcolordream.github.io/Portfolio/fr/tags/jeu/</guid>
+      <guid>http://localhost:1313/Portfolio/fr/tags/jeu/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://realcolordream.github.io/Portfolio/fr/tags/python/</link>
+      <link>http://localhost:1313/Portfolio/fr/tags/python/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>https://realcolordream.github.io/Portfolio/fr/tags/python/</guid>
+      <guid>http://localhost:1313/Portfolio/fr/tags/python/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Réseau</title>
-      <link>https://realcolordream.github.io/Portfolio/fr/tags/r%C3%A9seau/</link>
+      <link>http://localhost:1313/Portfolio/fr/tags/r%C3%A9seau/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>https://realcolordream.github.io/Portfolio/fr/tags/r%C3%A9seau/</guid>
+      <guid>http://localhost:1313/Portfolio/fr/tags/r%C3%A9seau/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Rust</title>
-      <link>https://realcolordream.github.io/Portfolio/fr/tags/rust/</link>
+      <link>http://localhost:1313/Portfolio/fr/tags/rust/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>https://realcolordream.github.io/Portfolio/fr/tags/rust/</guid>
+      <guid>http://localhost:1313/Portfolio/fr/tags/rust/</guid>
       <description></description>
       <content></content>
     </item>

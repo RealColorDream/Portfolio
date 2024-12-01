@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rust on Mon Portfolio</title>
-    <link>https://realcolordream.github.io/Portfolio/fr/tags/rust/</link>
+    <link>http://localhost:1313/Portfolio/fr/tags/rust/</link>
     <description>Recent content in Rust on Mon Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 22 Sep 2024 12:34:13 +0200</lastBuildDate><atom:link href="https://realcolordream.github.io/Portfolio/fr/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Sep 2024 12:34:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/fr/tags/rust/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Directions Cardinalles Opposées Simultanées (DCOS) en rust 🦀 !</title>
-      <link>https://realcolordream.github.io/Portfolio/fr/works/socd/</link>
+      <link>http://localhost:1313/Portfolio/fr/works/socd/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>https://realcolordream.github.io/Portfolio/fr/works/socd/</guid>
+      <guid>http://localhost:1313/Portfolio/fr/works/socd/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/socd&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;vous-avez-peut-être-entendu-parler-de-nouveaux-claviers-avec-un-temps-de-réponse-court-certains-dentre-eux-ont-des-fonctionnalités-qui-leur-permettent-de-répondre-uniquement-à-la-dernière-entrée-envoyée-par-lutilisateur&#34;&gt;Vous avez peut-être entendu parler de nouveaux claviers avec un temps de réponse court. Certains d&amp;rsquo;entre eux ont des fonctionnalités qui leur permettent de répondre uniquement à la dernière entrée envoyée par l&amp;rsquo;utilisateur.&lt;/h3&gt;
 &lt;h3 id=&#34;voici-une-courte-vidéo-qui-explique-comment-fonctionne-la-dcos-&#34;&gt;Voici une courte vidéo qui explique comment fonctionne la DCOS :&lt;/h3&gt;
@@ -48,10 +48,10 @@
     
     <item>
       <title>Implémentation du jeu de la vie de Conway en Rust 🦀</title>
-      <link>https://realcolordream.github.io/Portfolio/fr/works/gameoflife/</link>
+      <link>http://localhost:1313/Portfolio/fr/works/gameoflife/</link>
       <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
       
-      <guid>https://realcolordream.github.io/Portfolio/fr/works/gameoflife/</guid>
+      <guid>http://localhost:1313/Portfolio/fr/works/gameoflife/</guid>
       <description>&lt;h2 id=&#34;une-implémentation-simple-du-jeu-de-la-vie-de-conway-écrite-en-rust&#34;&gt;Une implémentation simple du jeu de la vie de Conway écrite en Rust.&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/game-of-life&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;présentation-du-jeu&#34;&gt;Présentation du jeu&lt;/h2&gt;
@@ -75,7 +75,7 @@
 &lt;li&gt;SDL2 (référez-vous au &lt;a href=&#34;https://docs.rs/embedded-graphics-simulator/0.6.0/embedded_graphics_simulator/#setup&#34;&gt;guide de la crate embedded-graphics&lt;/a&gt; pour l&amp;rsquo;installation)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;le-jeu-est-implémenté-à-laide-de-embedded-graphics-et-sexécute-sur-un-écran-monochrome-64x64&#34;&gt;Le jeu est implémenté à l&amp;rsquo;aide de embedded-graphics et s&amp;rsquo;exécute sur un écran monochrome 64x64.&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;Description de l&amp;rsquo;image&#34; src=&#34;https://realcolordream.github.io/Portfolio/Portfolio/img/game-of-life.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Description de l&amp;rsquo;image&#34; src=&#34;http://localhost:1313/Portfolio/Portfolio/img/game-of-life.png&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;raccourcis-clavier-&#34;&gt;Raccourcis clavier :&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Espace&lt;/code&gt; pour mettre en pause/démarrer le jeu&lt;/li&gt;

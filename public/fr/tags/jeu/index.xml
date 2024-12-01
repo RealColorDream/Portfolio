@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeu on Mon Portfolio</title>
-    <link>https://realcolordream.github.io/Portfolio/fr/tags/jeu/</link>
+    <link>http://localhost:1313/Portfolio/fr/tags/jeu/</link>
     <description>Recent content in Jeu on Mon Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 30 Sep 2024 21:20:13 +0200</lastBuildDate><atom:link href="https://realcolordream.github.io/Portfolio/fr/tags/jeu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 21:20:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/fr/tags/jeu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[NOUVEAU] Go_Gamedle en GoLang 🐹!</title>
-      <link>https://realcolordream.github.io/Portfolio/fr/works/gogamedle/</link>
+      <link>http://localhost:1313/Portfolio/fr/works/gogamedle/</link>
       <pubDate>Mon, 30 Sep 2024 21:20:13 +0200</pubDate>
       
-      <guid>https://realcolordream.github.io/Portfolio/fr/works/gogamedle/</guid>
+      <guid>http://localhost:1313/Portfolio/fr/works/gogamedle/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/GoGamedle&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;go_gamedle-en-golang-&#34;&gt;Go_Gamedle en GoLang 🐹!&lt;/h1&gt;
 &lt;h2 id=&#34;présentation-du-jeu&#34;&gt;Présentation du jeu&lt;/h2&gt;

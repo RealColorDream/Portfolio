@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bomberman on My Portfolio</title>
+    <link>http://localhost:1313/Portfolio/tags/bomberman/</link>
+    <description>Recent content in Bomberman on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Nov 2024 17:04:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/tags/bomberman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bomberman in JavaFX 🎮</title>
+      <link>http://localhost:1313/Portfolio/school/bomberman/</link>
+      <pubDate>Sat, 09 Nov 2024 17:04:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/school/bomberman/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/&#34;&gt;&lt;code&gt;🐙 Source Github here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;bomberman-in-javafx-&#34;&gt;Bomberman in JavaFX 🎮&lt;/h1&gt;
+&lt;p&gt;In class we were tasked to create a Bomberman game in JavaFX.&lt;/p&gt;
+&lt;p&gt;The game is a simple implementation of the classic Bomberman game, where the player must navigate a maze and place bombs to destroy obstacles and enemies.&lt;/p&gt;
+&lt;h1 id=&#34;full-project-&#34;&gt;Full project 📝&lt;/h1&gt;
+&lt;h1 id=&#34;team-members--&#34;&gt;Team members 👨‍💻-👩‍💻&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jakubiakfr&#34;&gt;Jakubiak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/emmagrave&#34;&gt;Grave&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mailly&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RealColorDream&#34;&gt;MySelf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;features-&#34;&gt;Features ✨&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Player can move up, down, left, right&lt;/li&gt;
+&lt;li&gt;Player can place bombs&lt;/li&gt;
+&lt;li&gt;Different types of bombs (with different explosion radius)&lt;/li&gt;
+&lt;li&gt;Enemies that move randomly&lt;/li&gt;
+&lt;li&gt;Different maps variations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_main.png&#34;&gt;&lt;img alt=&#34;Bomberman_main&#34; src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_main.png&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_explode.png&#34;&gt;&lt;img alt=&#34;Bomberman&#34; src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_explode.png&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_bomb.png&#34;&gt;&lt;img alt=&#34;Bomberman&#34; src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_bomb.png&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_turtle.png&#34;&gt;&lt;img alt=&#34;Bomberman&#34; src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_turtle.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/&#34;&gt;&lt;code&gt;🐙 Source Github here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;bomberman-in-javafx-&#34;&gt;Bomberman in JavaFX 🎮&lt;/h1&gt;
+&lt;p&gt;In class we were tasked to create a Bomberman game in JavaFX.&lt;/p&gt;
+&lt;p&gt;The game is a simple implementation of the classic Bomberman game, where the player must navigate a maze and place bombs to destroy obstacles and enemies.&lt;/p&gt;
+&lt;h1 id=&#34;full-project-&#34;&gt;Full project 📝&lt;/h1&gt;
+&lt;h1 id=&#34;team-members--&#34;&gt;Team members 👨‍💻-👩‍💻&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jakubiakfr&#34;&gt;Jakubiak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/emmagrave&#34;&gt;Grave&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mailly&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RealColorDream&#34;&gt;MySelf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;features-&#34;&gt;Features ✨&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Player can move up, down, left, right&lt;/li&gt;
+&lt;li&gt;Player can place bombs&lt;/li&gt;
+&lt;li&gt;Different types of bombs (with different explosion radius)&lt;/li&gt;
+&lt;li&gt;Enemies that move randomly&lt;/li&gt;
+&lt;li&gt;Different maps variations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_main.png&#34;&gt;&lt;img alt=&#34;Bomberman_main&#34; src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_main.png&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_explode.png&#34;&gt;&lt;img alt=&#34;Bomberman&#34; src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_explode.png&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_bomb.png&#34;&gt;&lt;img alt=&#34;Bomberman&#34; src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_bomb.png&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_turtle.png&#34;&gt;&lt;img alt=&#34;Bomberman&#34; src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_turtle.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;full-class-diagram-&#34;&gt;Full Class Diagram 📊&lt;/h1&gt;
+&lt;p&gt;&lt;code&gt;you can click on the image to see the full size&lt;/code&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/class_diagram.png&#34;&gt;&lt;img alt=&#34;Class Diagram&#34; src=&#34;http://localhost:1313/Portfolio/Portfolio/img/class_diagram.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;special-thanks-&#34;&gt;Special thanks 🙏&lt;/h1&gt;
+&lt;p&gt;Shout out to my team members for their hard work and dedication in creating this game.&lt;/p&gt;
+&lt;p&gt;And a big thank you to &lt;a href=&#34;https://www.cril.univ-artois.fr/~wallon/en/&#34;&gt;&lt;code&gt;Romain Wallon (AKA RW-6)&lt;/code&gt;&lt;/a&gt; &amp;amp; our teachers for guiding us through the process.&lt;/p&gt;
+&lt;h1 id=&#34;references-&#34;&gt;References 📚&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.java.com/&#34;&gt;Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://openjfx.io/&#34;&gt;JavaFX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gluonhq.com/products/scene-builder/&#34;&gt;Scene Builder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/idea/&#34;&gt;IntelliJ IDEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
