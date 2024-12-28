@@ -1,7 +1,6 @@
 baseURL = 'https://realcolordream.github.io/Portfolio/'
 languageCode = 'fr'                                     # Default language
 title = 'Portfolio'
-
 theme = "terminal"
 # paginate = 5 deprecated
 pagination.pagerSize = 5
@@ -52,6 +51,11 @@ identifier = "personal-projects"
 name = "Personal Projects"
 url = "/works"
 
+[[languages.en.menu.main]]
+identifier = "skills"
+name = "Skills"
+url = "/skills"
+
 [languages.fr]
 weight = 2
 languageName = "French"
@@ -75,15 +79,20 @@ logoHomeLink = "/Portfolio/fr/"
 
 [languages.fr.menu]
 [[languages.fr.menu.main]]
-identifier = "School projects"
+identifier = "1"
 name = "Projets scolaires"
 url = "/fr/school/"
 
 [[languages.fr.menu.main]]
-identifier = "personal-projects"
+identifier = "2"
 name = "Projets Personnels"
 #url = "/fr/works/"
 url = "/fr/works/"
+
+[[languages.fr.menu.main]]
+identifier = "3"
+name = "Compétences"
+url = "/fr/skills/"
 
 #[[languages.fr.menu.main]]
 #identifier = "posts"

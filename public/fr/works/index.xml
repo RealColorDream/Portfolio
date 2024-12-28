@@ -54,11 +54,8 @@ Le jeu est écrit en GoLang et utilise le framework web &lt;a href=&#34;https://
 &lt;h3 id=&#34;vous-avez-peut-être-entendu-parler-de-nouveaux-claviers-avec-un-temps-de-réponse-court-certains-dentre-eux-ont-des-fonctionnalités-qui-leur-permettent-de-répondre-uniquement-à-la-dernière-entrée-envoyée-par-lutilisateur&#34;&gt;Vous avez peut-être entendu parler de nouveaux claviers avec un temps de réponse court. Certains d&amp;rsquo;entre eux ont des fonctionnalités qui leur permettent de répondre uniquement à la dernière entrée envoyée par l&amp;rsquo;utilisateur.&lt;/h3&gt;
 &lt;h3 id=&#34;voici-une-courte-vidéo-qui-explique-comment-fonctionne-la-dcos-&#34;&gt;Voici une courte vidéo qui explique comment fonctionne la DCOS :&lt;/h3&gt;
 
-
-    
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NPWfg0BjY2g?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NPWfg0BjY2g?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
 &lt;h3 id=&#34;ce-petit-script-est-destiné-à-répliquer-la-fonctionnalité-dernière-entrée-en-premier-de-certains-claviers&#34;&gt;Ce petit script est destiné à répliquer la fonctionnalité &amp;ldquo;dernière entrée en premier&amp;rdquo; de certains claviers.&lt;/h3&gt;
@@ -69,11 +66,8 @@ Le jeu est écrit en GoLang et utilise le framework web &lt;a href=&#34;https://
 &lt;h3 id=&#34;vous-avez-peut-être-entendu-parler-de-nouveaux-claviers-avec-un-temps-de-réponse-court-certains-dentre-eux-ont-des-fonctionnalités-qui-leur-permettent-de-répondre-uniquement-à-la-dernière-entrée-envoyée-par-lutilisateur&#34;&gt;Vous avez peut-être entendu parler de nouveaux claviers avec un temps de réponse court. Certains d&amp;rsquo;entre eux ont des fonctionnalités qui leur permettent de répondre uniquement à la dernière entrée envoyée par l&amp;rsquo;utilisateur.&lt;/h3&gt;
 &lt;h3 id=&#34;voici-une-courte-vidéo-qui-explique-comment-fonctionne-la-dcos-&#34;&gt;Voici une courte vidéo qui explique comment fonctionne la DCOS :&lt;/h3&gt;
 
-
-    
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NPWfg0BjY2g?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NPWfg0BjY2g?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
 &lt;h3 id=&#34;ce-petit-script-est-destiné-à-répliquer-la-fonctionnalité-dernière-entrée-en-premier-de-certains-claviers&#34;&gt;Ce petit script est destiné à répliquer la fonctionnalité &amp;ldquo;dernière entrée en premier&amp;rdquo; de certains claviers.&lt;/h3&gt;
@@ -112,7 +106,7 @@ Le jeu est écrit en GoLang et utilise le framework web &lt;a href=&#34;https://
 &lt;li&gt;SDL2 (référez-vous au &lt;a href=&#34;https://docs.rs/embedded-graphics-simulator/0.6.0/embedded_graphics_simulator/#setup&#34;&gt;guide de la crate embedded-graphics&lt;/a&gt; pour l&amp;rsquo;installation)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;le-jeu-est-implémenté-à-laide-de-embedded-graphics-et-sexécute-sur-un-écran-monochrome-64x64&#34;&gt;Le jeu est implémenté à l&amp;rsquo;aide de embedded-graphics et s&amp;rsquo;exécute sur un écran monochrome 64x64.&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;Description de l&amp;rsquo;image&#34; src=&#34;http://localhost:1313/Portfolio/Portfolio/img/game-of-life.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/game-of-life.png&#34; alt=&#34;Description de l&amp;rsquo;image&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;raccourcis-clavier-&#34;&gt;Raccourcis clavier :&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Espace&lt;/code&gt; pour mettre en pause/démarrer le jeu&lt;/li&gt;

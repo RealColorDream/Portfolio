@@ -3,49 +3,46 @@ title = 'LensJudge ⚖️'
 date = 2024-11-09T17:04:00+01:00
 draft = false
 description = "A judge system for competitive programming contests 🏆"
-tags = ['java', 'c', 'cpp', 'oop', 'teamwork']
+tags = ['java', 'c', 'cpp', 'oop', 'teamwork', 'python']
 +++
-[`🐙 Source Github here 🐙`]()
 
-# Bomberman in JavaFX 🎮
+[`🐙 Github Source here 🐙`]()
 
-In class we were tasked to create a Bomberman game in JavaFX.
+## 🚀 Usage
+```bash
+$ lensjudge
+lensjudge <sourceFile> <test.in> <test.ans>  # For a single test
+lensjudge <sourceFile> <test-dir>            # For a directory of tests
+```
 
-The game is a simple implementation of the classic Bomberman game, where the player must navigate a maze and place bombs to destroy obstacles and enemies.
+## 📚 Example
+```bash
+$ lensjudge main.cc test.in test.ans
+# Check if the output of main.cc is correct for test.in
+```
+```bash
+$ lensjudge main.cc test-dir
+# Check if the output of main.cc is correct for all tests in test-dir
+```
 
-
-
-# Full project 📝
+## Full Class Diagram 📊
+`you can click on the image to see the full size`
+[![Bomberman_main](/Portfolio/img/lensjudge-diagram.png)](/Portfolio/img/lensjudge-diagram.png)
 
 # Team members 👨‍💻-👩‍💻
-- [Jakubiak](https://github.com/jakubiakfr)
-- [Grave](https://github.com/emmagrave)
-- Mailly
+- [Perez](https://github.com/Dev-LucasP)
+- [Pierreuse](https://github.com/legobestof)
+- [Mione]()
 - [MySelf](https://github.com/RealColorDream)
-# Features ✨
 
-- Player can move up, down, left, right
-- Player can place bombs
-- Different types of bombs (with different explosion radius)
-- Enemies that move randomly
-- Different maps variations
-
-[![Bomberman_main](/Portfolio/img/bomberman_main.png)](/Portfolio/img/bomberman_main.png)
-[![Bomberman](/Portfolio/img/bomberman_explode.png)](/Portfolio/img/bomberman_explode.png)
-[![Bomberman](/Portfolio/img/bomberman_bomb.png)](/Portfolio/img/bomberman_bomb.png)
-[![Bomberman](/Portfolio/img/bomberman_turtle.png)](/Portfolio/img/bomberman_turtle.png)
-
-# Full Class Diagram 📊
-`you can click on the image to see the full size`
-[![Class Diagram](/Portfolio/img/class_diagram.png)](/Portfolio/img/class_diagram.png)
-
-# Special thanks 🙏
+## Special thanks 🙏
 Shout out to my team members for their hard work and dedication in creating this game.
 
 And a big thank you to [`Romain Wallon (AKA RW-6)`](https://www.cril.univ-artois.fr/~wallon/en/) & our teachers for guiding us through the process.
 
-# References 📚
+## References 📚
 - [Java](https://www.java.com/)
-- [JavaFX](https://openjfx.io/)
-- [Scene Builder](https://gluonhq.com/products/scene-builder/)
+- [Cpp](https://www.cplusplus.com/)
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- [Python](https://www.python.org/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)

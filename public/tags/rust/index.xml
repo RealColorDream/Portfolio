@@ -46,7 +46,7 @@
 &lt;li&gt;SDL2 (refer to the &lt;a href=&#34;https://docs.rs/embedded-graphics-simulator/0.6.0/embedded_graphics_simulator/#setup&#34;&gt;guide of the embedded-graphics crate&lt;/a&gt; for installation)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;the-game-is-implemented-using-embedded-graphics-and-runs-on-a-64x64-monochrome-display&#34;&gt;The game is implemented using embedded-graphics and runs on a 64x64 monochrome display.&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;Description of Image&#34; src=&#34;http://localhost:1313/Portfolio/Portfolio/img/game-of-life.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/game-of-life.png&#34; alt=&#34;Description of Image&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;keybinds&#34;&gt;Keybinds:&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Space&lt;/code&gt; to pause/unpause the game&lt;/li&gt;
@@ -70,11 +70,8 @@
 &lt;h3 id=&#34;you-may-have-heard-of-new-keyboards-with-short-response-time-some-of-them-have-features-that-enable-them-to-only-response-with-the-last-input-sent-by-the-user&#34;&gt;You may have heard of new keyboards with short response time. Some of them have features that enable them to only response with the last input sent by the user.&lt;/h3&gt;
 &lt;h3 id=&#34;here-is-a-quick-video-that-explain-how-socd-works-&#34;&gt;Here is a quick video that explain how SOCD works :&lt;/h3&gt;
 
-
-    
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NPWfg0BjY2g?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NPWfg0BjY2g?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
 &lt;h3 id=&#34;so-this-quick-script-is-meant-to-replicate-the-last-input-first-feature-in-certain-keyboards&#34;&gt;So this quick script is meant to replicate the &amp;rsquo;last input first&amp;rsquo; feature in certain keyboards.&lt;/h3&gt;
@@ -85,11 +82,8 @@
 &lt;h3 id=&#34;you-may-have-heard-of-new-keyboards-with-short-response-time-some-of-them-have-features-that-enable-them-to-only-response-with-the-last-input-sent-by-the-user&#34;&gt;You may have heard of new keyboards with short response time. Some of them have features that enable them to only response with the last input sent by the user.&lt;/h3&gt;
 &lt;h3 id=&#34;here-is-a-quick-video-that-explain-how-socd-works-&#34;&gt;Here is a quick video that explain how SOCD works :&lt;/h3&gt;
 
-
-    
     &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NPWfg0BjY2g?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NPWfg0BjY2g?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
 &lt;h3 id=&#34;so-this-quick-script-is-meant-to-replicate-the-last-input-first-feature-in-certain-keyboards&#34;&gt;So this quick script is meant to replicate the &amp;rsquo;last input first&amp;rsquo; feature in certain keyboards.&lt;/h3&gt;
