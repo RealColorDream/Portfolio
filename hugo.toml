@@ -82,17 +82,19 @@ logoHomeLink = "/Portfolio/fr/"
 identifier = "1"
 name = "Projets scolaires"
 url = "/fr/school/"
+weight = 1
 
 [[languages.fr.menu.main]]
 identifier = "2"
-name = "Projets Personnels"
-#url = "/fr/works/"
+name = "Projets personnels"
 url = "/fr/works/"
+weight = 2
 
 [[languages.fr.menu.main]]
 identifier = "3"
 name = "Compétences"
 url = "/fr/skills/"
+weight = 3
 
 #[[languages.fr.menu.main]]
 #identifier = "posts"

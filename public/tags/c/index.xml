@@ -6,14 +6,19 @@
     <description>Recent content in C on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Nov 2024 17:04:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Oct 2024 17:04:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/tags/c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LensJudge ⚖️</title>
       <link>http://localhost:1313/Portfolio/school/lensjudge/</link>
-      <pubDate>Sat, 09 Nov 2024 17:04:00 +0100</pubDate>
+      <pubDate>Tue, 22 Oct 2024 17:04:00 +0100</pubDate>
       
       <guid>http://localhost:1313/Portfolio/school/lensjudge/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;code&gt;🐙 Github Source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/lens-judge&#34;&gt;&lt;code&gt;🐙 Github Source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-what-is-lensjudge&#34;&gt;🌟 What is LensJudge?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;LensJudge&lt;/strong&gt; is a tool designed to automatically evaluate submitted solutions during competitive programming contests.
+It compares the output of a source file against predefined input data and their expected outcomes. LensJudge supports
+evaluating both a single test case or an entire directory of multiple tests.&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;-usage&#34;&gt;🚀 Usage&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ lensjudge
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;lensjudge &amp;lt;sourceFile&amp;gt; &amp;lt;test.in&amp;gt; &amp;lt;test.ans&amp;gt;  &lt;span style=&#34;color:#75715e&#34;&gt;# For a single test&lt;/span&gt;
@@ -26,7 +31,12 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;full-class-diagram-&#34;&gt;Full Class Diagram 📊&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;you can click on the image to see the full size&lt;/code&gt;
 &lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/lensjudge-diagram.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/lensjudge-diagram.png&#34; alt=&#34;Bomberman_main&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;code&gt;🐙 Github Source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/lens-judge&#34;&gt;&lt;code&gt;🐙 Github Source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-what-is-lensjudge&#34;&gt;🌟 What is LensJudge?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;LensJudge&lt;/strong&gt; is a tool designed to automatically evaluate submitted solutions during competitive programming contests.
+It compares the output of a source file against predefined input data and their expected outcomes. LensJudge supports
+evaluating both a single test case or an entire directory of multiple tests.&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;-usage&#34;&gt;🚀 Usage&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ lensjudge
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;lensjudge &amp;lt;sourceFile&amp;gt; &amp;lt;test.in&amp;gt; &amp;lt;test.ans&amp;gt;  &lt;span style=&#34;color:#75715e&#34;&gt;# For a single test&lt;/span&gt;
@@ -48,7 +58,8 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;special-thanks-&#34;&gt;Special thanks 🙏&lt;/h2&gt;
 &lt;p&gt;Shout out to my team members for their hard work and dedication in creating this game.&lt;/p&gt;
-&lt;p&gt;And a big thank you to &lt;a href=&#34;https://www.cril.univ-artois.fr/~wallon/en/&#34;&gt;&lt;code&gt;Romain Wallon (AKA RW-6)&lt;/code&gt;&lt;/a&gt; &amp;amp; our teachers for guiding us through the process.&lt;/p&gt;
+&lt;p&gt;And a big thank you to &lt;a href=&#34;https://www.cril.univ-artois.fr/~wallon/en/&#34;&gt;&lt;code&gt;Romain Wallon (AKA RW-6)&lt;/code&gt;&lt;/a&gt; &amp;amp; our teachers for
+guiding us through the process.&lt;/p&gt;
 &lt;h2 id=&#34;references-&#34;&gt;References 📚&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.java.com/&#34;&gt;Java&lt;/a&gt;&lt;/li&gt;

@@ -1,12 +1,12 @@
 +++
 title = 'Bomberman in JavaFX 🎮'
-date = 2024-11-09T17:04:00+01:00
+date = 2024-10-01T17:04:00+01:00
 draft = false
 description = "A fun bomberman game in javafx ![Main game](/Portfolio/img/bomberman_main.png)"
 tags = ['java', 'game', 'bomberman', 'oop', 'teamwork']
 +++
 
-[`🐙 Github Source here 🐙`]()
+[`🐙 Github Source here 🐙`](https://github.com/RealColorDream/bomberman)
 
 # Bomberman in JavaFX 🎮
 

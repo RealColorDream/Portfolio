@@ -6,14 +6,14 @@
     <description>Recent content in Bomberman on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Nov 2024 17:04:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/tags/bomberman/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Oct 2024 17:04:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/tags/bomberman/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bomberman in JavaFX 🎮</title>
       <link>http://localhost:1313/Portfolio/school/bomberman/</link>
-      <pubDate>Sat, 09 Nov 2024 17:04:00 +0100</pubDate>
+      <pubDate>Tue, 01 Oct 2024 17:04:00 +0100</pubDate>
       
       <guid>http://localhost:1313/Portfolio/school/bomberman/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;code&gt;🐙 Github Source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/bomberman&#34;&gt;&lt;code&gt;🐙 Github Source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;bomberman-in-javafx-&#34;&gt;Bomberman in JavaFX 🎮&lt;/h1&gt;
 &lt;p&gt;In class we were tasked to create a Bomberman game in JavaFX.&lt;/p&gt;
 &lt;p&gt;The game is a simple implementation of the classic Bomberman game, where the player must navigate a maze and place bombs to destroy obstacles and enemies.&lt;/p&gt;
@@ -37,7 +37,7 @@
 &lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_explode.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_explode.png&#34; alt=&#34;Bomberman&#34;&gt;&lt;/a&gt;
 &lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_bomb.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_bomb.png&#34; alt=&#34;Bomberman&#34;&gt;&lt;/a&gt;
 &lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_turtle.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_turtle.png&#34; alt=&#34;Bomberman&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;&lt;a href=&#34;&#34;&gt;&lt;code&gt;🐙 Github Source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/bomberman&#34;&gt;&lt;code&gt;🐙 Github Source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;bomberman-in-javafx-&#34;&gt;Bomberman in JavaFX 🎮&lt;/h1&gt;
 &lt;p&gt;In class we were tasked to create a Bomberman game in JavaFX.&lt;/p&gt;
 &lt;p&gt;The game is a simple implementation of the classic Bomberman game, where the player must navigate a maze and place bombs to destroy obstacles and enemies.&lt;/p&gt;

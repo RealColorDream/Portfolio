@@ -8,16 +8,6 @@
     <language>en</language>
     <lastBuildDate>Sat, 09 Nov 2024 17:04:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bomberman</title>
-      <link>http://localhost:1313/Portfolio/tags/bomberman/</link>
-      <pubDate>Sat, 09 Nov 2024 17:04:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/Portfolio/tags/bomberman/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>C</title>
       <link>http://localhost:1313/Portfolio/tags/c/</link>
       <pubDate>Sat, 09 Nov 2024 17:04:00 +0100</pubDate>
@@ -33,16 +23,6 @@
       <pubDate>Sat, 09 Nov 2024 17:04:00 +0100</pubDate>
       
       <guid>http://localhost:1313/Portfolio/tags/cpp/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>http://localhost:1313/Portfolio/tags/game/</link>
-      <pubDate>Sat, 09 Nov 2024 17:04:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/Portfolio/tags/game/</guid>
       <description></description>
       <content></content>
     </item>
@@ -83,6 +63,26 @@
       <pubDate>Sat, 09 Nov 2024 17:04:00 +0100</pubDate>
       
       <guid>http://localhost:1313/Portfolio/tags/teamwork/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Bomberman</title>
+      <link>http://localhost:1313/Portfolio/tags/bomberman/</link>
+      <pubDate>Tue, 01 Oct 2024 17:04:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/bomberman/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>http://localhost:1313/Portfolio/tags/game/</link>
+      <pubDate>Tue, 01 Oct 2024 17:04:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/game/</guid>
       <description></description>
       <content></content>
     </item>
