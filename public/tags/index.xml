@@ -6,11 +6,51 @@
     <description>Recent content in Tags on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Nov 2024 17:04:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Dec 2024 17:04:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laravel</title>
+      <link>http://localhost:1313/Portfolio/tags/laravel/</link>
+      <pubDate>Wed, 18 Dec 2024 17:04:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/laravel/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>http://localhost:1313/Portfolio/tags/php/</link>
+      <pubDate>Wed, 18 Dec 2024 17:04:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/php/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Teamwork</title>
+      <link>http://localhost:1313/Portfolio/tags/teamwork/</link>
+      <pubDate>Wed, 18 Dec 2024 17:04:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/teamwork/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1313/Portfolio/tags/web/</link>
+      <pubDate>Wed, 18 Dec 2024 17:04:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/tags/web/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>C</title>
       <link>http://localhost:1313/Portfolio/tags/c/</link>
-      <pubDate>Sat, 09 Nov 2024 17:04:00 +0100</pubDate>
+      <pubDate>Tue, 22 Oct 2024 17:04:00 +0100</pubDate>
       
       <guid>http://localhost:1313/Portfolio/tags/c/</guid>
       <description></description>
@@ -20,7 +60,7 @@
     <item>
       <title>Cpp</title>
       <link>http://localhost:1313/Portfolio/tags/cpp/</link>
-      <pubDate>Sat, 09 Nov 2024 17:04:00 +0100</pubDate>
+      <pubDate>Tue, 22 Oct 2024 17:04:00 +0100</pubDate>
       
       <guid>http://localhost:1313/Portfolio/tags/cpp/</guid>
       <description></description>
@@ -30,7 +70,7 @@
     <item>
       <title>Java</title>
       <link>http://localhost:1313/Portfolio/tags/java/</link>
-      <pubDate>Sat, 09 Nov 2024 17:04:00 +0100</pubDate>
+      <pubDate>Tue, 22 Oct 2024 17:04:00 +0100</pubDate>
       
       <guid>http://localhost:1313/Portfolio/tags/java/</guid>
       <description></description>
@@ -40,7 +80,7 @@
     <item>
       <title>Oop</title>
       <link>http://localhost:1313/Portfolio/tags/oop/</link>
-      <pubDate>Sat, 09 Nov 2024 17:04:00 +0100</pubDate>
+      <pubDate>Tue, 22 Oct 2024 17:04:00 +0100</pubDate>
       
       <guid>http://localhost:1313/Portfolio/tags/oop/</guid>
       <description></description>
@@ -50,19 +90,9 @@
     <item>
       <title>Python</title>
       <link>http://localhost:1313/Portfolio/tags/python/</link>
-      <pubDate>Sat, 09 Nov 2024 17:04:00 +0100</pubDate>
+      <pubDate>Tue, 22 Oct 2024 17:04:00 +0100</pubDate>
       
       <guid>http://localhost:1313/Portfolio/tags/python/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Teamwork</title>
-      <link>http://localhost:1313/Portfolio/tags/teamwork/</link>
-      <pubDate>Sat, 09 Nov 2024 17:04:00 +0100</pubDate>
-      
-      <guid>http://localhost:1313/Portfolio/tags/teamwork/</guid>
       <description></description>
       <content></content>
     </item>

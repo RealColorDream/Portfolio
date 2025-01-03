@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/Portfolio/</loc>
-    <lastmod>2024-11-09T17:04:00+01:00</lastmod>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,48 +15,20 @@
                 href="http://localhost:1313/Portfolio/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/bomberman/</loc>
-    <lastmod>2024-11-09T17:04:00+01:00</lastmod>
+    <loc>http://localhost:1313/Portfolio/tags/laravel/</loc>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/school/bomberman/</loc>
-    <lastmod>2024-11-09T17:04:00+01:00</lastmod>
+    <loc>http://localhost:1313/Portfolio/school/marathon-web/</loc>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/c/</loc>
-    <lastmod>2024-11-09T17:04:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/cpp/</loc>
-    <lastmod>2024-11-09T17:04:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/game/</loc>
-    <lastmod>2024-11-09T17:04:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/java/</loc>
-    <lastmod>2024-11-09T17:04:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/school/lensjudge/</loc>
-    <lastmod>2024-11-09T17:04:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/oop/</loc>
-    <lastmod>2024-11-09T17:04:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/python/</loc>
-    <lastmod>2024-11-09T17:04:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/Portfolio/fr/tags/python/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/Portfolio/tags/python/"
-                />
+    <loc>http://localhost:1313/Portfolio/tags/php/</loc>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Portfolio/school/</loc>
-    <lastmod>2024-11-09T17:04:00+01:00</lastmod>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Portfolio/tags/</loc>
-    <lastmod>2024-11-09T17:04:00+01:00</lastmod>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -69,7 +41,47 @@
                 />
   </url><url>
     <loc>http://localhost:1313/Portfolio/tags/teamwork/</loc>
-    <lastmod>2024-11-09T17:04:00+01:00</lastmod>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/tags/web/</loc>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/tags/c/</loc>
+    <lastmod>2024-10-22T17:04:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/tags/cpp/</loc>
+    <lastmod>2024-10-22T17:04:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/tags/java/</loc>
+    <lastmod>2024-10-22T17:04:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/school/lensjudge/</loc>
+    <lastmod>2024-10-22T17:04:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/tags/oop/</loc>
+    <lastmod>2024-10-22T17:04:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/tags/python/</loc>
+    <lastmod>2024-10-22T17:04:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Portfolio/tags/python/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/tags/bomberman/</loc>
+    <lastmod>2024-10-01T17:04:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/school/bomberman/</loc>
+    <lastmod>2024-10-01T17:04:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/tags/game/</loc>
+    <lastmod>2024-10-01T17:04:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Portfolio/works/</loc>
     <lastmod>2024-09-30T21:20:13+02:00</lastmod>

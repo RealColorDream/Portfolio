@@ -14,9 +14,54 @@
       
       <guid>http://localhost:1313/Portfolio/school/marathon-web/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/marathon-web&#34;&gt;&lt;code&gt;🐙 Github Source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;-this-article-is-currently-work-in-progress-&#34;&gt;🚧 This article is currently work in progress. 🚧&lt;/h2&gt;</description>
+&lt;h2 id=&#34;marathon-web-2024-&#34;&gt;Marathon Web 2024 🐟&lt;/h2&gt;
+&lt;h2 id=&#34;-what-is-marathon-web&#34;&gt;🌟 What is Marathon Web?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Marathon Web&lt;/strong&gt; is a school project where you have to create a website during a 36-hour interval. The goal is to create a website with a given subject and a team of 8 people.&lt;/p&gt;
+&lt;h2 id=&#34;-the-subject&#34;&gt;📜 The subject&lt;/h2&gt;
+&lt;p&gt;The subject of this year was a traveling website. We had to create a website that would allow users to search for and book trips.&lt;/p&gt;</description>
       <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/marathon-web&#34;&gt;&lt;code&gt;🐙 Github Source here 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;-this-article-is-currently-work-in-progress-&#34;&gt;🚧 This article is currently work in progress. 🚧&lt;/h2&gt;
+&lt;h2 id=&#34;marathon-web-2024-&#34;&gt;Marathon Web 2024 🐟&lt;/h2&gt;
+&lt;h2 id=&#34;-what-is-marathon-web&#34;&gt;🌟 What is Marathon Web?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Marathon Web&lt;/strong&gt; is a school project where you have to create a website during a 36-hour interval. The goal is to create a website with a given subject and a team of 8 people.&lt;/p&gt;
+&lt;h2 id=&#34;-the-subject&#34;&gt;📜 The subject&lt;/h2&gt;
+&lt;p&gt;The subject of this year was a traveling website. We had to create a website that would allow users to search for and book trips.&lt;/p&gt;
+&lt;p&gt;You can check out the current subject of this year here : &lt;a href=&#34;https://marathon.alfweb.net/#le-sujet&#34;&gt;Marathon Web&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-features&#34;&gt;🚀 Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;User authentication&lt;/li&gt;
+&lt;li&gt;Search for trips&lt;/li&gt;
+&lt;li&gt;Show trip details&lt;/li&gt;
+&lt;li&gt;User can add trips&lt;/li&gt;
+&lt;li&gt;Visitors can see the trips&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-technologies-used&#34;&gt;📚 Technologies used&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;Laravel&lt;/li&gt;
+&lt;li&gt;MySQL / SQLite&lt;/li&gt;
+&lt;li&gt;HTML / CSS&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-quick-look-at-the-website&#34;&gt;🖼️ Quick look at the website&lt;/h2&gt;
+&lt;div class=&#34;video-container&#34; style=&#34;position: relative; width: 100%; height: auto; max-width: 550px; margin: 0 auto; overflow: hidden;&#34;&gt;
+    &lt;video autoplay loop muted style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
+        &lt;source src=&#34;http://localhost:1313/Portfolio/Portfolio/video/video-marathon-web-short.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;code&gt;you can click on the images to see the full size&lt;/code&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon1.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon1.png&#34; alt=&#34;Marathon Web&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon2.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon2.png&#34; alt=&#34;Marathon Web&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon3.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon3.png&#34; alt=&#34;Marathon Web&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;team-members--&#34;&gt;Team members 👨‍💻-👩‍💻&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jakubiakfr&#34;&gt;Jakubiak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeijiRestored&#34;&gt;Goustiaux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Rayane0001&#34;&gt;Rousseau&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RealColorDream/&#34;&gt;MySelf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;special-thanks-&#34;&gt;Special thanks 🙏&lt;/h2&gt;
+&lt;p&gt;Shout out to my team members for their hard work and dedication in creating this website, and a big thank you to our teachers for guiding us through the process.&lt;/p&gt;
 </content>
     </item>
     
