@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head><script src="/Portfolio/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=Portfolio/livereload" data-no-instant defer></script>
+  
+    <title>Реализация игры Жизнь Конвея на Rust 🦀 :: Мое Портфолио</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Простая реализация игры Жизнь Конвея, написанная на Rust." />
+<meta name="keywords" content="" />
+
+  <meta name="robots" content="noodp" />
+
+<link rel="canonical" href="http://localhost:1313/Portfolio/ru/works/gameoflife/" />
+
+
+
+
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/Portfolio/css/buttons.min.2bc533403a27dfe0e93105a92502b42ce4587e2e4a87d9f7d349e51e16e09478.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/Portfolio/css/code.min.00125962708925857e7b66dbc58391d55be1191a3d0ce2034de8c9cd2c481c36.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/Portfolio/css/fonts.min.90c955c31dd7c0e05aae3d4f583d4d8a2af799d69c961337eaf2a825063a55dd.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/Portfolio/css/footer.min.2e3eb191baee58dd05a9f0104ac1fab0827bca7c64dafe0b2579f934c33a1d69.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/Portfolio/css/gist.min.a751e8b0abe1ba8bc53ced52a38b19d8950fe78ca29454ea8c2595cf26aad5c0.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/Portfolio/css/header.min.b6fb4423cf82a9f9d7abc9cd010223fa3d70a6526a3f28f8e17d814c06e18f9e.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/Portfolio/css/main.min.1d8be2dd1b5de9fdaed058c8c59fcf4485f36619574abfb47ed0cfda4812c16d.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/Portfolio/css/menu.min.83637a90d903026bc280d3f82f96ceb06c5fc72b7c1a8d686afb5bbf818a29f7.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/Portfolio/css/pagination.min.82f6400eae7c7c6dc3c866733c2ec0579e4089608fea69400ff85b3880aa0d3c.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/Portfolio/css/post.min.fc74ca360273c1d828da3c02b8174eba435607b369d98418ccc6f2243cd4e75d.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/Portfolio/css/prism.min.9023bbc24533d09e97a51a0a42a5a7bfe4c591ae167c5551fb1d2191d11977c0.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/Portfolio/css/syntax.min.cc789ed9377260d7949ea4c18781fc58959a89287210fe4edbff44ebfc1511b6.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/Portfolio/css/terminal.min.736caf886baa67df630c4cde30fbdc5115122eb74c6246f15a31401344bfa2f0.css">
+
+  
+  <link rel="stylesheet" href="http://localhost:1313/Portfolio/css/terms.min.b81791663c3790e738e571cdbf802312390d30e4b1d8dc9d814a5b5454d0ac11.css">
+
+
+<link rel="stylesheet" href="http://localhost:1313/Portfolio/terminal.css">
+
+
+
+
+<link rel="shortcut icon" href="http://localhost:1313/Portfolio/favicon.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/Portfolio/apple-touch-icon.png">
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="ru" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Реализация игры Жизнь Конвея на Rust 🦀">
+<meta property="og:description" content="Простая реализация игры Жизнь Конвея, написанная на Rust." />
+<meta property="og:url" content="http://localhost:1313/Portfolio/ru/works/gameoflife/" />
+<meta property="og:site_name" content="Мое Портфолио" />
+
+  <meta property="og:image" content="http://localhost:1313/Portfolio/og-image.png">
+
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+
+
+  <meta property="article:published_time" content="2024-09-22 12:34:13 &#43;0200 CEST" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+
+
+<div class="container center">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/Portfolio/ru/">
+  <div class="logo">
+    RealColorDream - ru
+  </div>
+</a>
+
+    </div>
+    
+      <ul class="menu menu--mobile">
+  <li class="menu__trigger">Menu&nbsp;▾</li>
+  <li>
+    <ul class="menu__dropdown">
+      
+        
+          <li><a href="/Portfolio/ru/works">Личные проекты</a></li>
+        
+      
+        
+          <li><a href="/Portfolio/ru/school">Школьные проекты</a></li>
+        
+      
+        
+          <li><a href="/Portfolio/ru/skills">Навыки</a></li>
+        
+      
+      
+        <hr />
+        
+          <li>
+            <a href="http://localhost:1313/Portfolio/">English</a>
+          </li>
+        
+          <li>
+            <a href="http://localhost:1313/Portfolio/fr/">French</a>
+          </li>
+        
+          <li>
+            <a href="http://localhost:1313/Portfolio/ru/">Russian</a>
+          </li>
+        
+      
+    </ul>
+  </li>
+</ul>
+
+    
+    
+      <ul class="menu menu--desktop menu--language-selector">
+  <li class="menu__trigger">Russian&nbsp;▾</li>
+  <li>
+    <ul class="menu__dropdown">
+      
+        <li><a href="http://localhost:1313/Portfolio/">English</a></li>
+      
+        <li><a href="http://localhost:1313/Portfolio/fr/">French</a></li>
+      
+        <li><a href="http://localhost:1313/Portfolio/ru/">Russian</a></li>
+      
+    </ul>
+  </li>
+</ul>
+
+    
+  </div>
+  
+    <nav class="navigation-menu">
+  <ul class="navigation-menu__inner menu--desktop">
+    
+      
+        
+          <li><a href="/Portfolio/ru/works" >Личные проекты</a></li>
+        
+      
+        
+          <li><a href="/Portfolio/ru/school" >Школьные проекты</a></li>
+        
+      
+        
+          <li><a href="/Portfolio/ru/skills" >Навыки</a></li>
+        
+      
+      
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<article class="post">
+  <h1 class="post-title">
+    <a href="http://localhost:1313/Portfolio/ru/works/gameoflife/">Реализация игры Жизнь Конвея на Rust 🦀</a>
+  </h1>
+  <div class="post-meta"><time class="post-date">2024-09-22</time><span class="post-reading-time">2 мин чтения (220 слова)</span></div>
+
+  
+    <span class="post-tags">
+      
+      #<a href="http://localhost:1313/Portfolio/ru/tags/rust/">rust</a>&nbsp;
+      
+    </span>
+  
+  
+
+
+  
+
+  <div class="post-content"><div>
+        <h2 id="простая-реализация-игры-жизнь-конвея-написанная-на-rust">Простая реализация игры Жизнь Конвея, написанная на Rust.<a href="#простая-реализация-игры-жизнь-конвея-написанная-на-rust" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p><a href="https://github.com/RealColorDream/game-of-life"><code>🐙 Исходный код на Github здесь 🐙</code></a></p>
+<h2 id="обзор-игры">Обзор игры<a href="#обзор-игры" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p>Игра Жизнь Конвея - это клеточный автомат, придуманный британским математиком Джоном Хортоном Конвеем в 1970 году. Это игра с нулевым количеством игроков, что означает, что ее развитие определяется начальным состоянием и не требует дальнейшего ввода. Игра состоит из сетки клеток, которые могут быть либо живыми, либо мертвыми, и она развивается через серию поколений на основе простых правил.</p>
+<h2 id="правила">Правила<a href="#правила" class="hanchor" ariaLabel="Anchor">#</a> </h2>
+<p>Состояние каждой клетки в сетке обновляется одновременно на основе следующих правил:</p>
+<ol>
+<li><strong>Выживание</strong>: Живая клетка с двумя или тремя живыми соседями остается живой в следующем поколении.</li>
+<li><strong>Смерть</strong>: Живая клетка с менее чем двумя живыми соседями умирает (недостаток населения), и живая клетка с более чем тремя живыми соседями умирает (перенаселение).</li>
+<li><strong>Рождение</strong>: Мертвая клетка с точно тремя живыми соседями становится живой (размножение).</li>
+</ol>
+<p>Эти правила создают динамическую систему, где простые начальные конфигурации могут привести к сложным поведением со временем.</p>
+<h3 id="для-сборки-и-запуска-этого-проекта-вам-нужно-установить-следующее">Для сборки и запуска этого проекта вам нужно установить следующее:<a href="#для-сборки-и-запуска-этого-проекта-вам-нужно-установить-следующее" class="hanchor" ariaLabel="Anchor">#</a> </h3>
+<ul>
+<li>Rust</li>
+<li>Cargo</li>
+<li>SDL2 (см. <a href="https://docs.rs/embedded-graphics-simulator/0.6.0/embedded_graphics_simulator/#setup">руководство по установке крейта embedded-graphics</a>)</li>
+</ul>
+<h3 id="игра-реализована-с-использованием-embedded-graphics-и-работает-на-64x64-монохромном-дисплее">Игра реализована с использованием embedded-graphics и работает на 64x64 монохромном дисплее.<a href="#игра-реализована-с-использованием-embedded-graphics-и-работает-на-64x64-монохромном-дисплее" class="hanchor" ariaLabel="Anchor">#</a> </h3>
+<p><img src="/Portfolio/img/game-of-life.png" alt="Описание изображения"></p>
+<h4 id="клавиши-управления">Клавиши управления:<a href="#клавиши-управления" class="hanchor" ariaLabel="Anchor">#</a> </h4>
+<ul>
+<li><code>Space</code> для паузы/возобновления игры</li>
+<li><code>TAB</code> для сброса игры</li>
+<li><code>Стрелки</code> для перемещения курсора</li>
+<li><code>Enter</code> для переключения состояния клетки под курсором, когда игра на паузе</li>
+<li><code>Escape</code> для выхода из игры</li>
+<li><code>ЛКМ</code> для создания космического корабля в позиции курсора</li>
+</ul>
+<p>Приятной игры!</p>
+
+      </div></div>
+
+  
+
+  
+    
+
+  
+</article>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>RealColorDream © 2025 (Powered by <a href="https://gohugo.io">Hugo</a>)</span>
+    
+      </div>
+  </div>
+</footer>
+
+
+
+
+
+
+<script type="text/javascript" src="/Portfolio/bundle.min.js"></script>
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

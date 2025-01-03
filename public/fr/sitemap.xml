@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/Portfolio/fr/</loc>
-    <lastmod>2024-09-30T21:20:13+02:00</lastmod>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -11,8 +11,217 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/Portfolio/fr/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/tags/laravel/</loc>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Portfolio/tags/laravel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/tags/laravel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/tags/laravel/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/school/marathon-web/</loc>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Portfolio/school/marathon-web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/school/marathon-web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/school/marathon-web/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/tags/php/</loc>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Portfolio/tags/php/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/tags/php/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/tags/php/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/school/</loc>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Portfolio/school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/school/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/school/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/tags/</loc>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Portfolio/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/tags/travail-d%C3%A9quipe/</loc>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/tags/web/</loc>
+    <lastmod>2024-12-18T17:04:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Portfolio/tags/web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/tags/web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/tags/web/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/tags/c/</loc>
+    <lastmod>2024-10-22T17:04:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Portfolio/tags/c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/tags/c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/tags/c/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/tags/cpp/</loc>
+    <lastmod>2024-10-22T17:04:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Portfolio/tags/cpp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/tags/cpp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/tags/cpp/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/tags/java/</loc>
+    <lastmod>2024-10-22T17:04:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Portfolio/tags/java/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/tags/java/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/tags/java/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/school/lensjudge/</loc>
+    <lastmod>2024-10-22T17:04:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Portfolio/school/lensjudge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/school/lensjudge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/school/lensjudge/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/tags/poo/</loc>
+    <lastmod>2024-10-22T17:04:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/tags/python/</loc>
+    <lastmod>2024-10-22T17:04:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Portfolio/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/tags/python/"
                 />
   </url><url>
     <loc>http://localhost:1313/Portfolio/fr/works/</loc>
@@ -21,6 +230,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/Portfolio/works/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/works/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -37,6 +251,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/works/gogamedle/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/Portfolio/fr/works/gogamedle/"
                 />
@@ -50,6 +269,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/tags/golang/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/Portfolio/fr/tags/golang/"
                 />
@@ -57,25 +281,17 @@
     <loc>http://localhost:1313/Portfolio/fr/tags/jeu/</loc>
     <lastmod>2024-09-30T21:20:13+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/fr/tags/</loc>
-    <lastmod>2024-09-30T21:20:13+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/Portfolio/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/Portfolio/fr/tags/"
-                />
-  </url><url>
     <loc>http://localhost:1313/Portfolio/fr/works/socd/</loc>
     <lastmod>2024-09-22T12:34:13+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/Portfolio/works/socd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/works/socd/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -92,21 +308,13 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/works/gameoflife/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/Portfolio/fr/works/gameoflife/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/Portfolio/fr/tags/python/</loc>
-    <lastmod>2024-09-22T12:34:13+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/Portfolio/tags/python/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/Portfolio/fr/tags/python/"
                 />
   </url><url>
     <loc>http://localhost:1313/Portfolio/fr/tags/r%C3%A9seau/</loc>
@@ -118,6 +326,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/Portfolio/tags/rust/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/tags/rust/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -134,8 +347,47 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/works/cidr_script/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/Portfolio/fr/works/cidr_script/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/school/bomberman/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Portfolio/school/bomberman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/school/bomberman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/school/bomberman/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/fr/skills/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Portfolio/skills/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/skills/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/skills/"
                 />
   </url><url>
     <loc>http://localhost:1313/Portfolio/fr/categories/</loc>
@@ -143,6 +395,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/Portfolio/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://localhost:1313/Portfolio/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cpp on Мое Портфолио</title>
+    <link>http://localhost:1313/Portfolio/ru/tags/cpp/</link>
+    <description>Recent content in Cpp on Мое Портфолио</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 22 Oct 2024 17:04:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/ru/tags/cpp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LensJudge ⚖️</title>
+      <link>http://localhost:1313/Portfolio/ru/school/lensjudge/</link>
+      <pubDate>Tue, 22 Oct 2024 17:04:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/ru/school/lensjudge/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/lens-judge&#34;&gt;&lt;code&gt;🐙 Исходный код на Github здесь 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-что-такое-lensjudge&#34;&gt;🌟 Что такое LensJudge?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;LensJudge&lt;/strong&gt; - это инструмент, предназначенный для автоматической оценки представленных решений во время соревнований по программированию.
+Он сравнивает вывод исходного файла с предопределенными входными данными и их ожидаемыми результатами. LensJudge поддерживает
+оценку как одного теста, так и целого каталога с множеством тестов.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-использование&#34;&gt;🚀 Использование&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ lensjudge
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;lensjudge &amp;lt;sourceFile&amp;gt; &amp;lt;test.in&amp;gt; &amp;lt;test.ans&amp;gt;  &lt;span style=&#34;color:#75715e&#34;&gt;# Для одного теста&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;lensjudge &amp;lt;sourceFile&amp;gt; &amp;lt;test-dir&amp;gt;            &lt;span style=&#34;color:#75715e&#34;&gt;# Для каталога тестов&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-пример&#34;&gt;📚 Пример&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ lensjudge main.cc test.in test.ans
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Проверка, правильный ли вывод main.cc для test.in&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ lensjudge main.cc test-dir
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Проверка, правильный ли вывод main.cc для всех тестов в test-dir&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;полная-диаграмма-классов-&#34;&gt;Полная диаграмма классов 📊&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;вы можете нажать на изображение, чтобы увидеть его в полном размере&lt;/code&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/lensjudge-diagram.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/lensjudge-diagram.png&#34; alt=&#34;Bomberman_main&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/lens-judge&#34;&gt;&lt;code&gt;🐙 Исходный код на Github здесь 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-что-такое-lensjudge&#34;&gt;🌟 Что такое LensJudge?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;LensJudge&lt;/strong&gt; - это инструмент, предназначенный для автоматической оценки представленных решений во время соревнований по программированию.
+Он сравнивает вывод исходного файла с предопределенными входными данными и их ожидаемыми результатами. LensJudge поддерживает
+оценку как одного теста, так и целого каталога с множеством тестов.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-использование&#34;&gt;🚀 Использование&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ lensjudge
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;lensjudge &amp;lt;sourceFile&amp;gt; &amp;lt;test.in&amp;gt; &amp;lt;test.ans&amp;gt;  &lt;span style=&#34;color:#75715e&#34;&gt;# Для одного теста&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;lensjudge &amp;lt;sourceFile&amp;gt; &amp;lt;test-dir&amp;gt;            &lt;span style=&#34;color:#75715e&#34;&gt;# Для каталога тестов&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-пример&#34;&gt;📚 Пример&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ lensjudge main.cc test.in test.ans
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Проверка, правильный ли вывод main.cc для test.in&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ lensjudge main.cc test-dir
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Проверка, правильный ли вывод main.cc для всех тестов в test-dir&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;полная-диаграмма-классов-&#34;&gt;Полная диаграмма классов 📊&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;вы можете нажать на изображение, чтобы увидеть его в полном размере&lt;/code&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/lensjudge-diagram.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/lensjudge-diagram.png&#34; alt=&#34;Bomberman_main&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;члены-команды--&#34;&gt;Члены команды 👨‍💻-👩‍💻&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Dev-LucasP&#34;&gt;Perez&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/legobestof&#34;&gt;Pierreuse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Mione&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RealColorDream&#34;&gt;MySelf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;особая-благодарность-&#34;&gt;Особая благодарность 🙏&lt;/h2&gt;
+&lt;p&gt;Огромное спасибо моим членам команды за их усердную работу и преданность в создании этой игры.&lt;/p&gt;
+&lt;p&gt;И большое спасибо &lt;a href=&#34;https://www.cril.univ-artois.fr/~wallon/en/&#34;&gt;&lt;code&gt;Роману Валлону (AKA RW-6)&lt;/code&gt;&lt;/a&gt; и нашим учителям за
+руководство в процессе.&lt;/p&gt;
+&lt;h2 id=&#34;ссылки-&#34;&gt;Ссылки 📚&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.java.com/&#34;&gt;Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cplusplus.com/&#34;&gt;Cpp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C_%28programming_language%29&#34;&gt;C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/idea/&#34;&gt;IntelliJ IDEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

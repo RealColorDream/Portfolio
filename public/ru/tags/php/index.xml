@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Php on Мое Портфолио</title>
+    <link>http://localhost:1313/Portfolio/ru/tags/php/</link>
+    <description>Recent content in Php on Мое Портфолио</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 18 Dec 2024 17:04:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/ru/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marathon Web 2024 🐟</title>
+      <link>http://localhost:1313/Portfolio/ru/school/marathon-web/</link>
+      <pubDate>Wed, 18 Dec 2024 17:04:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/ru/school/marathon-web/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/marathon-web&#34;&gt;&lt;code&gt;🐙 Исходный код на Github здесь 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;marathon-web-2024-&#34;&gt;Marathon Web 2024 🐟&lt;/h2&gt;
+&lt;h2 id=&#34;-что-такое-marathon-web&#34;&gt;🌟 Что такое Marathon Web?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Marathon Web&lt;/strong&gt; - это школьный проект, в рамках которого необходимо создать сайт за 36 часов. Цель - создать сайт на заданную тему в команде из 8 человек.&lt;/p&gt;
+&lt;h2 id=&#34;-тема&#34;&gt;📜 Тема&lt;/h2&gt;
+&lt;p&gt;Темой этого года был сайт для путешествий. Нам нужно было создать сайт, который позволял бы пользователям искать и бронировать поездки.&lt;/p&gt;
+&lt;p&gt;Вы можете ознакомиться с текущей темой этого года здесь: &lt;a href=&#34;https://marathon.alfweb.net/#le-sujet&#34;&gt;Marathon Web&lt;/a&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/marathon-web&#34;&gt;&lt;code&gt;🐙 Исходный код на Github здесь 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;marathon-web-2024-&#34;&gt;Marathon Web 2024 🐟&lt;/h2&gt;
+&lt;h2 id=&#34;-что-такое-marathon-web&#34;&gt;🌟 Что такое Marathon Web?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Marathon Web&lt;/strong&gt; - это школьный проект, в рамках которого необходимо создать сайт за 36 часов. Цель - создать сайт на заданную тему в команде из 8 человек.&lt;/p&gt;
+&lt;h2 id=&#34;-тема&#34;&gt;📜 Тема&lt;/h2&gt;
+&lt;p&gt;Темой этого года был сайт для путешествий. Нам нужно было создать сайт, который позволял бы пользователям искать и бронировать поездки.&lt;/p&gt;
+&lt;p&gt;Вы можете ознакомиться с текущей темой этого года здесь: &lt;a href=&#34;https://marathon.alfweb.net/#le-sujet&#34;&gt;Marathon Web&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-функции&#34;&gt;🚀 Функции&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Аутентификация пользователей&lt;/li&gt;
+&lt;li&gt;Поиск поездок&lt;/li&gt;
+&lt;li&gt;Просмотр деталей поездки&lt;/li&gt;
+&lt;li&gt;Пользователи могут добавлять поездки&lt;/li&gt;
+&lt;li&gt;Посетители могут просматривать поездки&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-используемые-технологии&#34;&gt;📚 Используемые технологии&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;Laravel&lt;/li&gt;
+&lt;li&gt;MySQL / SQLite&lt;/li&gt;
+&lt;li&gt;HTML / CSS&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-быстрый-взгляд-на-сайт&#34;&gt;🖼️ Быстрый взгляд на сайт&lt;/h2&gt;
+&lt;div class=&#34;video-container&#34; style=&#34;position: relative; width: 100%; height: auto; max-width: 550px; margin: 0 auto; overflow: hidden;&#34;&gt;
+    &lt;video autoplay loop muted style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
+        &lt;source src=&#34;http://localhost:1313/Portfolio/Portfolio/video/video-marathon-web-short.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;code&gt;вы можете нажать на изображения, чтобы увидеть их в полном размере&lt;/code&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon1.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon1.png&#34; alt=&#34;Marathon Web&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon2.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon2.png&#34; alt=&#34;Marathon Web&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon3.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon3.png&#34; alt=&#34;Marathon Web&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;члены-команды--&#34;&gt;Члены команды 👨‍💻-👩‍💻&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jakubiakfr&#34;&gt;Jakubiak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeijiRestored&#34;&gt;Goustiaux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Rayane0001&#34;&gt;Rousseau&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RealColorDream/&#34;&gt;MySelf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;особая-благодарность-&#34;&gt;Особая благодарность 🙏&lt;/h2&gt;
+&lt;p&gt;Огромное спасибо моим членам команды за их усердную работу и преданность в создании этого сайта, а также большое спасибо нашим учителям за руководство в процессе.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

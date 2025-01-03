@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network on Мое Портфолио</title>
+    <link>http://localhost:1313/Portfolio/ru/tags/network/</link>
+    <description>Recent content in Network on Мое Портфолио</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 22 Sep 2024 12:34:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/ru/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Скрипт калькулятора CIDR на Python (калькулятор подсетей) 🐍</title>
+      <link>http://localhost:1313/Portfolio/ru/works/cidr_script/</link>
+      <pubDate>Sun, 22 Sep 2024 12:34:13 +0200</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/ru/works/cidr_script/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/CIDR_script&#34;&gt;&lt;code&gt;🐙 Исходный код на Github здесь 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;калькулятор-cidr---это-простой-скрипт-на-python-для-вычисления-нотации-cidr-ip-адреса&#34;&gt;Калькулятор CIDR - это простой скрипт на Python для вычисления нотации CIDR IP-адреса.&lt;/h1&gt;
+&lt;h2 id=&#34;он-предназначен-для-максимально-простого-использования&#34;&gt;Он предназначен для максимально простого использования&lt;/h2&gt;
+&lt;h2 id=&#34;использование&#34;&gt;Использование:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; CIDR &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; _
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CIDR &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; _&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;CIDR(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;192.168.0.0&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;24&lt;/span&gt;) &lt;span style=&#34;color:#75715e&#34;&gt;# IP, количество подсетей&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(CIDR) &lt;span style=&#34;color:#75715e&#34;&gt;# по умолчанию, он выведет всю информацию об этом IP&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(CIDR&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;first_IP_device())
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;методы&#34;&gt;Методы:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; method &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; dir(_&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;CIDR):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;not&lt;/span&gt; method&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;startswith(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;__&amp;#34;&lt;/span&gt;):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        print(method)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# [&amp;#39;broadcast_IP&amp;#39;, &amp;#39;first_IP&amp;#39;, &amp;#39;first_IP_device&amp;#39;, &amp;#39;get_mask_Number&amp;#39;, &amp;#39;get_network_IP&amp;#39;, &amp;#39;last_IP&amp;#39;, &amp;#39;last_IP_device&amp;#39;, &amp;#39;number_of_IP&amp;#39;, &amp;#39;number_of_IP_device&amp;#39;, &amp;#39;parse_IP_to_int&amp;#39;, &amp;#39;parse_int_to_IP&amp;#39;, &amp;#39;parse_ip_to_list&amp;#39;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/CIDR_script&#34;&gt;&lt;code&gt;🐙 Исходный код на Github здесь 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;калькулятор-cidr---это-простой-скрипт-на-python-для-вычисления-нотации-cidr-ip-адреса&#34;&gt;Калькулятор CIDR - это простой скрипт на Python для вычисления нотации CIDR IP-адреса.&lt;/h1&gt;
+&lt;h2 id=&#34;он-предназначен-для-максимально-простого-использования&#34;&gt;Он предназначен для максимально простого использования&lt;/h2&gt;
+&lt;h2 id=&#34;использование&#34;&gt;Использование:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; CIDR &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; _
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CIDR &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; _&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;CIDR(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;192.168.0.0&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;24&lt;/span&gt;) &lt;span style=&#34;color:#75715e&#34;&gt;# IP, количество подсетей&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(CIDR) &lt;span style=&#34;color:#75715e&#34;&gt;# по умолчанию, он выведет всю информацию об этом IP&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(CIDR&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;first_IP_device())
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;методы&#34;&gt;Методы:&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; method &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; dir(_&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;CIDR):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;not&lt;/span&gt; method&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;startswith(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;__&amp;#34;&lt;/span&gt;):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        print(method)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# [&amp;#39;broadcast_IP&amp;#39;, &amp;#39;first_IP&amp;#39;, &amp;#39;first_IP_device&amp;#39;, &amp;#39;get_mask_Number&amp;#39;, &amp;#39;get_network_IP&amp;#39;, &amp;#39;last_IP&amp;#39;, &amp;#39;last_IP_device&amp;#39;, &amp;#39;number_of_IP&amp;#39;, &amp;#39;number_of_IP_device&amp;#39;, &amp;#39;parse_IP_to_int&amp;#39;, &amp;#39;parse_int_to_IP&amp;#39;, &amp;#39;parse_ip_to_list&amp;#39;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
+    </item>
+    
+  </channel>
+</rss>

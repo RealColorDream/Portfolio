@@ -1,5 +1,6 @@
 +++
 title = 'Bomberman in JavaFX 🎮'
+
 date = 2024-10-01T17:04:00+01:00
 draft = false
 description = "A fun bomberman game in javafx ![Main game](/Portfolio/img/bomberman_main.png)"
@@ -15,7 +16,7 @@ In class we were tasked to create a Bomberman game in JavaFX.
 The game is a simple implementation of the classic Bomberman game, where the player must navigate a maze and place bombs to destroy obstacles and enemies.
 
 
-# Full project 📝
+# Full project 📝    
 
 # Team members 👨‍💻-👩‍💻
 - [Jakubiak](https://github.com/jakubiakfr)

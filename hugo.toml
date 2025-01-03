@@ -82,13 +82,13 @@ logoHomeLink = "/Portfolio/fr/"
 identifier = "1"
 name = "Projets scolaires"
 url = "/fr/school/"
-weight = 1
+weight = 2
 
 [[languages.fr.menu.main]]
 identifier = "2"
 name = "Projets personnels"
 url = "/fr/works/"
-weight = 2
+weight = 1
 
 [[languages.fr.menu.main]]
 identifier = "3"
@@ -100,3 +100,44 @@ weight = 3
 #identifier = "posts"
 #name = "Posts"
 #url = "/fr/posts/"
+
+
+[languages.ru]
+weight = 3
+languageName = "Russian"
+title = "Мое Портфолио"
+
+[languages.ru.params]
+subtitle = "Простая, ретро тема для Hugo"
+menuMore = "Показать больше"
+readMore = "Читать далее"
+readOtherPosts = "Читать другие посты"
+newerPosts = "Новые посты"
+olderPosts = "Старые посты"
+missingContentMessage = "Страница не найдена..."
+missingBackButtonLabel = "Вернуться на главную страницу"
+minuteReadingTime = "мин чтения"
+words = "слова"
+
+[languages.ru.params.logo]
+logoText = "RealColorDream - ru"
+logoHomeLink = "/Portfolio/ru/"
+
+[languages.ru.menu]
+[[languages.ru.menu.main]]
+identifier = "school-projects"
+name = "Школьные проекты"
+url = "/ru/school"
+weight = 2
+
+[[languages.ru.menu.main]]
+identifier = "personal-projects"
+name = "Личные проекты"
+url = "/ru/works"
+weight = 1
+
+[[languages.ru.menu.main]]
+identifier = "skills"
+name = "Навыки"
+url = "/ru/skills"
+weight = 3

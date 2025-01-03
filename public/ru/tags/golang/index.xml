@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Мое Портфолио</title>
+    <link>http://localhost:1313/Portfolio/ru/tags/golang/</link>
+    <description>Recent content in Golang on Мое Портфолио</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 30 Sep 2024 21:20:13 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/ru/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[НОВОЕ] Go_Gamedle на GoLang 🐹!</title>
+      <link>http://localhost:1313/Portfolio/ru/works/gogamedle/</link>
+      <pubDate>Mon, 30 Sep 2024 21:20:13 +0200</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/ru/works/gogamedle/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/GoGamedle&#34;&gt;&lt;code&gt;🐙 Исходный код на Github здесь 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;go_gamedle-на-golang-&#34;&gt;Go_Gamedle на GoLang 🐹!&lt;/h1&gt;
+&lt;h2 id=&#34;обзор-игры&#34;&gt;Обзор игры&lt;/h2&gt;
+&lt;p&gt;Go_Gamedle - это простая игра, цель которой угадать игру по обложке или описанию.
+Игра написана на GoLang и использует &lt;a href=&#34;https://gin-gonic.com/&#34;&gt;&lt;code&gt;gin-gonic&lt;/code&gt;&lt;/a&gt; для отображения HTML-страницы с игрой.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;🚧 В настоящее время в разработке 🚧&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;что-используется-в-этом-проекте&#34;&gt;Что используется в этом проекте?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GoLang&lt;/li&gt;
+&lt;li&gt;Gin (веб-фреймворк на GoLang)&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS (Bulma CSS для удобства)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;И в основном API &lt;a href=&#34;https://www.igdb.com/&#34;&gt;IGDB&lt;/a&gt;, который является базой данных видеоигр.&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/GoGamedle&#34;&gt;&lt;code&gt;🐙 Исходный код на Github здесь 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;go_gamedle-на-golang-&#34;&gt;Go_Gamedle на GoLang 🐹!&lt;/h1&gt;
+&lt;h2 id=&#34;обзор-игры&#34;&gt;Обзор игры&lt;/h2&gt;
+&lt;p&gt;Go_Gamedle - это простая игра, цель которой угадать игру по обложке или описанию.
+Игра написана на GoLang и использует &lt;a href=&#34;https://gin-gonic.com/&#34;&gt;&lt;code&gt;gin-gonic&lt;/code&gt;&lt;/a&gt; для отображения HTML-страницы с игрой.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;🚧 В настоящее время в разработке 🚧&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;что-используется-в-этом-проекте&#34;&gt;Что используется в этом проекте?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GoLang&lt;/li&gt;
+&lt;li&gt;Gin (веб-фреймворк на GoLang)&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS (Bulma CSS для удобства)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;И в основном API &lt;a href=&#34;https://www.igdb.com/&#34;&gt;IGDB&lt;/a&gt;, который является базой данных видеоигр.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

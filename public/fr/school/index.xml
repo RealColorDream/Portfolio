@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schools on Mon Portfolio</title>
+    <link>http://localhost:1313/Portfolio/fr/school/</link>
+    <description>Recent content in Schools on Mon Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 18 Dec 2024 17:04:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/fr/school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marathon Web 2024 🐟</title>
+      <link>http://localhost:1313/Portfolio/fr/school/marathon-web/</link>
+      <pubDate>Wed, 18 Dec 2024 17:04:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/fr/school/marathon-web/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/marathon-web&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;marathon-web-2024-&#34;&gt;Marathon Web 2024 🐟&lt;/h2&gt;
+&lt;h2 id=&#34;-quest-ce-que-le-marathon-web-&#34;&gt;🌟 Qu&amp;rsquo;est-ce que le Marathon Web ?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Marathon Web&lt;/strong&gt; est un projet scolaire où vous devez créer un site web en 36 heures. Le but est de créer un site web avec un sujet donné et une équipe de 8 personnes.&lt;/p&gt;
+&lt;h2 id=&#34;-le-sujet&#34;&gt;📜 Le sujet&lt;/h2&gt;
+&lt;p&gt;Le sujet de cette année était un site web de voyage. Nous devions créer un site web permettant aux utilisateurs de rechercher et de réserver des voyages.&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/marathon-web&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;marathon-web-2024-&#34;&gt;Marathon Web 2024 🐟&lt;/h2&gt;
+&lt;h2 id=&#34;-quest-ce-que-le-marathon-web-&#34;&gt;🌟 Qu&amp;rsquo;est-ce que le Marathon Web ?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Marathon Web&lt;/strong&gt; est un projet scolaire où vous devez créer un site web en 36 heures. Le but est de créer un site web avec un sujet donné et une équipe de 8 personnes.&lt;/p&gt;
+&lt;h2 id=&#34;-le-sujet&#34;&gt;📜 Le sujet&lt;/h2&gt;
+&lt;p&gt;Le sujet de cette année était un site web de voyage. Nous devions créer un site web permettant aux utilisateurs de rechercher et de réserver des voyages.&lt;/p&gt;
+&lt;p&gt;Vous pouvez consulter le sujet actuel de cette année ici : &lt;a href=&#34;https://marathon.alfweb.net/#le-sujet&#34;&gt;Marathon Web&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-fonctionnalités&#34;&gt;🚀 Fonctionnalités&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Authentification utilisateur&lt;/li&gt;
+&lt;li&gt;Recherche de voyages&lt;/li&gt;
+&lt;li&gt;Affichage des détails des voyages&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;utilisateur peut ajouter des voyages&lt;/li&gt;
+&lt;li&gt;Les visiteurs peuvent voir les voyages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-technologies-utilisées&#34;&gt;📚 Technologies utilisées&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;Laravel&lt;/li&gt;
+&lt;li&gt;MySQL / SQLite&lt;/li&gt;
+&lt;li&gt;HTML / CSS&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-aperçu-rapide-du-site-web&#34;&gt;🖼️ Aperçu rapide du site web&lt;/h2&gt;
+&lt;div class=&#34;video-container&#34; style=&#34;position: relative; width: 100%; height: auto; max-width: 550px; margin: 0 auto; overflow: hidden;&#34;&gt;
+    &lt;video autoplay loop muted style=&#34;width: 100%; height: auto; object-fit: cover;&#34;&gt;
+        &lt;source src=&#34;http://localhost:1313/Portfolio/Portfolio/video/video-marathon-web-short.mp4&#34; type=&#34;video/mp4&#34;&gt;
+    &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;code&gt;vous pouvez cliquer sur les images pour voir en taille réelle&lt;/code&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon1.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon1.png&#34; alt=&#34;Marathon Web&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon2.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon2.png&#34; alt=&#34;Marathon Web&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon3.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/marathon3.png&#34; alt=&#34;Marathon Web&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;membres-de-léquipe--&#34;&gt;Membres de l&amp;rsquo;équipe 👨‍💻-👩‍💻&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jakubiakfr&#34;&gt;Jakubiak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/MeijiRestored&#34;&gt;Goustiaux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Rayane0001&#34;&gt;Rousseau&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RealColorDream/&#34;&gt;Moi-même&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;remerciements-&#34;&gt;Remerciements 🙏&lt;/h2&gt;
+&lt;p&gt;Un grand merci à mes coéquipiers pour leur travail acharné et leur dévouement dans la création de ce site web, et un grand merci à nos enseignants pour nous avoir guidés tout au long du processus.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>LensJudge ⚖️</title>
+      <link>http://localhost:1313/Portfolio/fr/school/lensjudge/</link>
+      <pubDate>Tue, 22 Oct 2024 17:04:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/fr/school/lensjudge/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/lens-judge&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-quest-ce-que-lensjudge-&#34;&gt;🌟 Qu&amp;rsquo;est-ce que LensJudge ?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;LensJudge&lt;/strong&gt; est un outil conçu pour évaluer automatiquement les solutions soumises lors des concours de programmation compétitive. Il compare la sortie d&amp;rsquo;un fichier source avec des données d&amp;rsquo;entrée prédéfinies et leurs résultats attendus. LensJudge prend en charge l&amp;rsquo;évaluation d&amp;rsquo;un seul test ou d&amp;rsquo;un répertoire entier de tests multiples.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-utilisation&#34;&gt;🚀 Utilisation&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ lensjudge
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;lensjudge &amp;lt;sourceFile&amp;gt; &amp;lt;test.in&amp;gt; &amp;lt;test.ans&amp;gt;  &lt;span style=&#34;color:#75715e&#34;&gt;# Pour un seul test&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;lensjudge &amp;lt;sourceFile&amp;gt; &amp;lt;test-dir&amp;gt;            &lt;span style=&#34;color:#75715e&#34;&gt;# Pour un répertoire de tests&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-exemple&#34;&gt;📚 Exemple&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ lensjudge main.cc test.in test.ans
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Vérifie si la sortie de main.cc est correcte pour test.in&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ lensjudge main.cc test-dir
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Vérifie si la sortie de main.cc est correcte pour tous les tests dans test-dir&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;diagramme-de-classe-complet-&#34;&gt;Diagramme de classe complet 📊&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;vous pouvez cliquer sur l&#39;image pour voir en taille réelle&lt;/code&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/lensjudge-diagram.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/lensjudge-diagram.png&#34; alt=&#34;Bomberman_main&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/lens-judge&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-quest-ce-que-lensjudge-&#34;&gt;🌟 Qu&amp;rsquo;est-ce que LensJudge ?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;LensJudge&lt;/strong&gt; est un outil conçu pour évaluer automatiquement les solutions soumises lors des concours de programmation compétitive. Il compare la sortie d&amp;rsquo;un fichier source avec des données d&amp;rsquo;entrée prédéfinies et leurs résultats attendus. LensJudge prend en charge l&amp;rsquo;évaluation d&amp;rsquo;un seul test ou d&amp;rsquo;un répertoire entier de tests multiples.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-utilisation&#34;&gt;🚀 Utilisation&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ lensjudge
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;lensjudge &amp;lt;sourceFile&amp;gt; &amp;lt;test.in&amp;gt; &amp;lt;test.ans&amp;gt;  &lt;span style=&#34;color:#75715e&#34;&gt;# Pour un seul test&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;lensjudge &amp;lt;sourceFile&amp;gt; &amp;lt;test-dir&amp;gt;            &lt;span style=&#34;color:#75715e&#34;&gt;# Pour un répertoire de tests&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-exemple&#34;&gt;📚 Exemple&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ lensjudge main.cc test.in test.ans
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Vérifie si la sortie de main.cc est correcte pour test.in&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ lensjudge main.cc test-dir
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Vérifie si la sortie de main.cc est correcte pour tous les tests dans test-dir&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;diagramme-de-classe-complet-&#34;&gt;Diagramme de classe complet 📊&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;vous pouvez cliquer sur l&#39;image pour voir en taille réelle&lt;/code&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/lensjudge-diagram.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/lensjudge-diagram.png&#34; alt=&#34;Bomberman_main&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;membres-de-léquipe--&#34;&gt;Membres de l&amp;rsquo;équipe 👨‍💻-👩‍💻&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Dev-LucasP&#34;&gt;Perez&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/legobestof&#34;&gt;Pierreuse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Mione&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RealColorDream&#34;&gt;Moi-même&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;remerciements-&#34;&gt;Remerciements 🙏&lt;/h2&gt;
+&lt;p&gt;Un grand merci à mes coéquipiers pour leur travail acharné et leur dévouement dans la création de ce jeu.&lt;/p&gt;
+&lt;p&gt;Et un grand merci à &lt;a href=&#34;https://www.cril.univ-artois.fr/~wallon/en/&#34;&gt;&lt;code&gt;Romain Wallon (AKA RW-6)&lt;/code&gt;&lt;/a&gt; &amp;amp; nos enseignants pour nous avoir guidés tout au long du processus.&lt;/p&gt;
+&lt;h2 id=&#34;références-&#34;&gt;Références 📚&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.java.com/&#34;&gt;Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cplusplus.com/&#34;&gt;Cpp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/C_%28programming_language%29&#34;&gt;C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/idea/&#34;&gt;IntelliJ IDEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Bomberman en JavaFX 🎮</title>
+      <link>http://localhost:1313/Portfolio/fr/school/bomberman/</link>
+      <pubDate>Tue, 01 Oct 2024 17:04:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/fr/school/bomberman/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/bomberman&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;bomberman-en-javafx-&#34;&gt;Bomberman en JavaFX 🎮&lt;/h1&gt;
+&lt;p&gt;En classe, nous avons été chargés de créer un jeu de Bomberman en JavaFX.&lt;/p&gt;
+&lt;p&gt;Le jeu est une simple implémentation du jeu classique Bomberman, où le joueur doit naviguer dans un labyrinthe et placer des bombes pour détruire des obstacles et des ennemis.&lt;/p&gt;
+&lt;h1 id=&#34;projet-&#34;&gt;Projet 📝&lt;/h1&gt;
+&lt;h1 id=&#34;membres-de-léquipe--&#34;&gt;Membres de l&amp;rsquo;équipe 👨‍💻-👩‍💻&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jakubiakfr&#34;&gt;Jakubiak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/emmagrave&#34;&gt;Grave&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mailly&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RealColorDream&#34;&gt;Moi-même&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;fonctionnalités-&#34;&gt;Fonctionnalités ✨&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Le joueur peut se déplacer vers le haut, le bas, la gauche, la droite&lt;/li&gt;
+&lt;li&gt;Le joueur peut placer des bombes&lt;/li&gt;
+&lt;li&gt;Différents types de bombes (avec différents rayons d&amp;rsquo;explosion)&lt;/li&gt;
+&lt;li&gt;Ennemis qui se déplacent aléatoirement&lt;/li&gt;
+&lt;li&gt;Différentes variations de cartes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_main.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_main.png&#34; alt=&#34;Bomberman_main&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_explode.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_explode.png&#34; alt=&#34;Bomberman&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_bomb.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_bomb.png&#34; alt=&#34;Bomberman&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_turtle.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_turtle.png&#34; alt=&#34;Bomberman&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://github.com/RealColorDream/bomberman&#34;&gt;&lt;code&gt;🐙 Source Github ici 🐙&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;bomberman-en-javafx-&#34;&gt;Bomberman en JavaFX 🎮&lt;/h1&gt;
+&lt;p&gt;En classe, nous avons été chargés de créer un jeu de Bomberman en JavaFX.&lt;/p&gt;
+&lt;p&gt;Le jeu est une simple implémentation du jeu classique Bomberman, où le joueur doit naviguer dans un labyrinthe et placer des bombes pour détruire des obstacles et des ennemis.&lt;/p&gt;
+&lt;h1 id=&#34;projet-&#34;&gt;Projet 📝&lt;/h1&gt;
+&lt;h1 id=&#34;membres-de-léquipe--&#34;&gt;Membres de l&amp;rsquo;équipe 👨‍💻-👩‍💻&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jakubiakfr&#34;&gt;Jakubiak&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/emmagrave&#34;&gt;Grave&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mailly&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/RealColorDream&#34;&gt;Moi-même&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;fonctionnalités-&#34;&gt;Fonctionnalités ✨&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Le joueur peut se déplacer vers le haut, le bas, la gauche, la droite&lt;/li&gt;
+&lt;li&gt;Le joueur peut placer des bombes&lt;/li&gt;
+&lt;li&gt;Différents types de bombes (avec différents rayons d&amp;rsquo;explosion)&lt;/li&gt;
+&lt;li&gt;Ennemis qui se déplacent aléatoirement&lt;/li&gt;
+&lt;li&gt;Différentes variations de cartes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_main.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_main.png&#34; alt=&#34;Bomberman_main&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_explode.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_explode.png&#34; alt=&#34;Bomberman&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_bomb.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_bomb.png&#34; alt=&#34;Bomberman&#34;&gt;&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_turtle.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_turtle.png&#34; alt=&#34;Bomberman&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;diagramme-de-classe-&#34;&gt;Diagramme de classe 📊&lt;/h1&gt;
+&lt;p&gt;&lt;code&gt;vous pouvez cliquer sur l&#39;image pour voir la taille réelle&lt;/code&gt;
+&lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/class_diagram.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/class_diagram.png&#34; alt=&#34;Diagramme de classe&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;remerciements-&#34;&gt;Remerciements 🙏&lt;/h1&gt;
+&lt;p&gt;Un grand merci à mes coéquipiers pour leur travail acharné et leur dévouement dans la création de ce jeu.&lt;/p&gt;
+&lt;p&gt;Et un grand merci à &lt;a href=&#34;https://www.cril.univ-artois.fr/~wallon/en/&#34;&gt;&lt;code&gt;Romain Wallon (AKA RW-6)&lt;/code&gt;&lt;/a&gt; &amp;amp; nos enseignants pour nous avoir guidés tout au long du processus.&lt;/p&gt;
+&lt;h1 id=&#34;références-&#34;&gt;Références 📚&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.java.com/&#34;&gt;Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://openjfx.io/&#34;&gt;JavaFX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gluonhq.com/products/scene-builder/&#34;&gt;Scene Builder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/idea/&#34;&gt;IntelliJ IDEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
