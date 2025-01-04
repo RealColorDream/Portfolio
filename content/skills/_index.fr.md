@@ -1,5 +1,11 @@
+## 📄 Ici, vous pouvez trouver mon Curriculum Vitae
 
-## Voici une liste de mes compétences / technologies que j'apprends / ce qui m'intéresse 🚀
+![cv](/Portfolio/img/cv.png)
+[📄 Voir le PDF](/Portfolio/storage/cv.pdf)
+
+---
+
+## 🚀 Voici une liste de mes compétences / technologies que j'apprends / ce qui m'intéresse
 
 {{<skill>}}
 

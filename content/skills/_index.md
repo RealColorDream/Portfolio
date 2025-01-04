@@ -1,6 +1,11 @@
+## 📄 You can find here my resume
 
+![resume](/Portfolio/img/resume.png)
+[📄 View PDF](/Portfolio/storage/resume.pdf)
 
-## Here is a short list of my Skills / Techs Im learning / What Im Interesed in 🚀
+---
+
+## 🚀 Here is a short list of my Skills / Techs Im learning / What Im Interesed in 
 
 {{<skill>}}
 
