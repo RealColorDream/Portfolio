@@ -25,7 +25,7 @@ languageName = "English"
 title = "My Portfolio"
 
 [languages.en.params]
-subtitle = "A simple, retro theme for Hugo"
+subtitle = "Portfolio of a student in computer science"
 menuMore = "Show more"
 readMore = "Read more"
 readOtherPosts = "Read other posts"
