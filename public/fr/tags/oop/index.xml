@@ -17,7 +17,7 @@
 &lt;h1 id=&#34;bomberman-en-javafx-&#34;&gt;Bomberman en JavaFX 🎮&lt;/h1&gt;
 &lt;p&gt;En classe, nous avons été chargés de créer un jeu de Bomberman en JavaFX.&lt;/p&gt;
 &lt;p&gt;Le jeu est une simple implémentation du jeu classique Bomberman, où le joueur doit naviguer dans un labyrinthe et placer des bombes pour détruire des obstacles et des ennemis.&lt;/p&gt;
-&lt;h1 id=&#34;projet-complet-&#34;&gt;Projet complet 📝&lt;/h1&gt;
+&lt;h1 id=&#34;projet-&#34;&gt;Projet 📝&lt;/h1&gt;
 &lt;h1 id=&#34;membres-de-léquipe--&#34;&gt;Membres de l&amp;rsquo;équipe 👨‍💻-👩‍💻&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jakubiakfr&#34;&gt;Jakubiak&lt;/a&gt;&lt;/li&gt;
@@ -41,7 +41,7 @@
 &lt;h1 id=&#34;bomberman-en-javafx-&#34;&gt;Bomberman en JavaFX 🎮&lt;/h1&gt;
 &lt;p&gt;En classe, nous avons été chargés de créer un jeu de Bomberman en JavaFX.&lt;/p&gt;
 &lt;p&gt;Le jeu est une simple implémentation du jeu classique Bomberman, où le joueur doit naviguer dans un labyrinthe et placer des bombes pour détruire des obstacles et des ennemis.&lt;/p&gt;
-&lt;h1 id=&#34;projet-complet-&#34;&gt;Projet complet 📝&lt;/h1&gt;
+&lt;h1 id=&#34;projet-&#34;&gt;Projet 📝&lt;/h1&gt;
 &lt;h1 id=&#34;membres-de-léquipe--&#34;&gt;Membres de l&amp;rsquo;équipe 👨‍💻-👩‍💻&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/jakubiakfr&#34;&gt;Jakubiak&lt;/a&gt;&lt;/li&gt;
@@ -61,10 +61,10 @@
 &lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_explode.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_explode.png&#34; alt=&#34;Bomberman&#34;&gt;&lt;/a&gt;
 &lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_bomb.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_bomb.png&#34; alt=&#34;Bomberman&#34;&gt;&lt;/a&gt;
 &lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_turtle.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/bomberman_turtle.png&#34; alt=&#34;Bomberman&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;diagramme-de-classe-complet-&#34;&gt;Diagramme de classe complet 📊&lt;/h1&gt;
+&lt;h1 id=&#34;diagramme-de-classe-&#34;&gt;Diagramme de classe 📊&lt;/h1&gt;
 &lt;p&gt;&lt;code&gt;vous pouvez cliquer sur l&#39;image pour voir la taille réelle&lt;/code&gt;
 &lt;a href=&#34;http://localhost:1313/Portfolio/Portfolio/img/class_diagram.png&#34;&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/Portfolio/img/class_diagram.png&#34; alt=&#34;Diagramme de classe&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;remerciements-spéciaux-&#34;&gt;Remerciements spéciaux 🙏&lt;/h1&gt;
+&lt;h1 id=&#34;remerciements-&#34;&gt;Remerciements 🙏&lt;/h1&gt;
 &lt;p&gt;Un grand merci à mes coéquipiers pour leur travail acharné et leur dévouement dans la création de ce jeu.&lt;/p&gt;
 &lt;p&gt;Et un grand merci à &lt;a href=&#34;https://www.cril.univ-artois.fr/~wallon/en/&#34;&gt;&lt;code&gt;Romain Wallon (AKA RW-6)&lt;/code&gt;&lt;/a&gt; &amp;amp; nos enseignants pour nous avoir guidés tout au long du processus.&lt;/p&gt;
 &lt;h1 id=&#34;références-&#34;&gt;Références 📚&lt;/h1&gt;

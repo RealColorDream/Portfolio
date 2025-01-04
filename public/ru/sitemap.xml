@@ -222,6 +222,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/tags/oop/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="http://localhost:1313/Portfolio/ru/tags/oop/"
                 />
@@ -250,6 +255,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/Portfolio/tags/bomberman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/tags/bomberman/"
                 />
     <xhtml:link
                 rel="alternate"

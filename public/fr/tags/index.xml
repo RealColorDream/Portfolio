@@ -98,11 +98,11 @@
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>http://localhost:1313/Portfolio/fr/tags/golang/</link>
-      <pubDate>Mon, 30 Sep 2024 21:20:13 +0200</pubDate>
+      <title>Bomberman</title>
+      <link>http://localhost:1313/Portfolio/fr/tags/bomberman/</link>
+      <pubDate>Tue, 01 Oct 2024 17:04:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/Portfolio/fr/tags/golang/</guid>
+      <guid>http://localhost:1313/Portfolio/fr/tags/bomberman/</guid>
       <description></description>
       <content></content>
     </item>
@@ -110,9 +110,29 @@
     <item>
       <title>Jeu</title>
       <link>http://localhost:1313/Portfolio/fr/tags/jeu/</link>
-      <pubDate>Mon, 30 Sep 2024 21:20:13 +0200</pubDate>
+      <pubDate>Tue, 01 Oct 2024 17:04:00 +0100</pubDate>
       
       <guid>http://localhost:1313/Portfolio/fr/tags/jeu/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Oop</title>
+      <link>http://localhost:1313/Portfolio/fr/tags/oop/</link>
+      <pubDate>Tue, 01 Oct 2024 17:04:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/fr/tags/oop/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>http://localhost:1313/Portfolio/fr/tags/golang/</link>
+      <pubDate>Mon, 30 Sep 2024 21:20:13 +0200</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/fr/tags/golang/</guid>
       <description></description>
       <content></content>
     </item>

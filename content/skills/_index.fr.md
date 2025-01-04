@@ -15,6 +15,6 @@
 
 ## 📌 À propos de moi
 - ### 🐧 Passionné de Linux / FOSS (Free & Open Source Softwares) et amateur de nouvelles technologies
-- ### 🎓 Actuellement, je travaille à obtenir mon diplôme
+- ### 🎓 Actuellement, je travaille sur l'obtention de mon diplôme
 - ### λ 🌀 Amateur de jeux Valve / Source
 

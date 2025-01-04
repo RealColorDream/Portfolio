@@ -217,6 +217,11 @@
     <lastmod>2024-10-22T17:04:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/tags/oop/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="http://localhost:1313/Portfolio/ru/tags/oop/"
                 />
@@ -246,6 +251,11 @@
   </url><url>
     <loc>http://localhost:1313/Portfolio/tags/bomberman/</loc>
     <lastmod>2024-10-01T17:04:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/Portfolio/fr/tags/bomberman/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"

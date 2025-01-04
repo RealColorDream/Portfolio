@@ -42,7 +42,7 @@ logoHomeLink = "/Portfolio/"
 
 [languages.en.menu]
 [[languages.en.menu.main]]
-identifier = "School projects"
+identifier = "school-projects"
 name = "School projects"
 url = "/school"
 
@@ -78,20 +78,21 @@ logoText = "RealColorDream - fr"
 logoHomeLink = "/Portfolio/fr/"
 
 [languages.fr.menu]
-[[languages.fr.menu.main]]
-identifier = "1"
-name = "Projets scolaires"
-url = "/fr/school/"
-weight = 2
 
 [[languages.fr.menu.main]]
-identifier = "2"
+identifier = "personal-projects"
 name = "Projets personnels"
 url = "/fr/works/"
 weight = 1
 
 [[languages.fr.menu.main]]
-identifier = "3"
+identifier = "school-projects"
+name = "Projets scolaires"
+url = "/fr/school/"
+weight = 2
+
+[[languages.fr.menu.main]]
+identifier = "skills"
 name = "Compétences"
 url = "/fr/skills/"
 weight = 3
