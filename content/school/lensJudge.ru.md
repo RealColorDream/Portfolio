@@ -45,7 +45,7 @@ $ lensjudge main.cc test-dir
 
 - [Perez](https://github.com/Dev-LucasP)
 - [Pierreuse](https://github.com/legobestof)
-- [Mione]()
+- [Mione](https://github.com/MaxenMsf/)
 - [MySelf](https://github.com/RealColorDream)
 
 ## Особая благодарность 🙏

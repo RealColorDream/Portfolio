@@ -12,7 +12,7 @@ tags = ['web', 'php', 'laravel', 'travail déquipe']
 
 ## 🌟 Qu'est-ce que le Marathon Web ?
 
-**Marathon Web** est un projet scolaire où vous devez créer un site web en 36 heures. Le but est de créer un site web avec un sujet donné et une équipe de 8 personnes.
+**Marathon Web** est un projet scolaire où nous avons dû créer un site web en 36 heures. Le but est de créer un site web avec un sujet donné et une équipe de 8 personnes.
 
 ## 📜 Le sujet 
 
